@@ -1,10 +1,10 @@
 {
   "phase": 3,
-  "timestamp": "2026-06-28T17:21:16.424719+00:00",
+  "timestamp": "2026-06-28T20:03:43.118567+00:00",
   "hexagram_processed": {
-    "number": 1,
-    "name": "乾",
-    "symbol": "䷀"
+    "number": 44,
+    "name": "姤",
+    "symbol": "䷫"
   },
   "scripts_created": [
     "scripts/config.py",
@@ -17,17 +17,17 @@
     "scripts/README.md"
   ],
   "statistics": {
-    "unique_characters_in_glossary": 951,
-    "total_glossary_entries": 951,
-    "total_chinese_characters": 4687,
-    "estimated_page_count": 4,
+    "unique_characters_in_glossary": 766,
+    "total_glossary_entries": 766,
+    "total_chinese_characters": 2290,
+    "estimated_page_count": 3,
     "sections_with_pinyin": 8,
-    "characters_with_definitions": 949
+    "characters_with_definitions": 484
   },
   "validation": {
     "all_scripts_created": true,
     "all_scripts_executable": true,
-    "hexagram_1_html_generated": true,
+    "hexagram_1_html_generated": false,
     "dual_column_layout_verified": true,
     "glossary_sorted_correctly": true,
     "print_margins_correct": true,

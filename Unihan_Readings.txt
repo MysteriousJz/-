@@ -1,0 +1,3038 @@
+# Synthetic Unihan_Readings.txt extracted from hexagram output
+# Format: U+XXXX	kMandarin	pinyin
+# Format: U+XXXX	kDefinition	definition
+U+54C0	kMandarin	āi
+U+54C0	kDefinition	sad, mournful, pitiful; pity
+U+5B89	kMandarin	ān
+U+5B89	kDefinition	peaceful, tranquil, quiet
+U+6697	kMandarin	àn
+U+6697	kDefinition	dark; obscure; in secret, covert
+U+5967	kMandarin	ào
+U+5967	kDefinition	mysterious, obscure, profound
+U+516B	kMandarin	bā
+U+516B	kDefinition	eight; all around, all sides
+U+62D4	kMandarin	bá
+U+62D4	kDefinition	uproot, pull out
+U+628A	kMandarin	bǎ
+U+628A	kDefinition	hold, take; guard; regard as
+U+7F77	kMandarin	bà
+U+7F77	kDefinition	cease, finish, stop; give up
+U+767D	kMandarin	bái
+U+767D	kDefinition	white; pure, unblemished; bright
+U+67CF	kMandarin	bǎi
+U+67CF	kDefinition	cypress, cedar
+U+767E	kMandarin	bǎi
+U+767E	kDefinition	one hundred; numerous, many
+U+62DC	kMandarin	bài
+U+62DC	kDefinition	do obeisance, bow, kowtow
+U+73ED	kMandarin	bān
+U+73ED	kDefinition	class, group, grade; squad; job
+U+9812	kMandarin	bān
+U+9812	kDefinition	confer, bestow; publish, promulgate
+U+962A	kMandarin	bǎn
+U+962A	kDefinition	hillside farmland; slope
+U+90A6	kMandarin	bāng
+U+90A6	kDefinition	nation, country, state
+U+5305	kMandarin	bāo
+U+5305	kDefinition	wrap, pack, bundle; package
+U+8584	kMandarin	báo
+U+8584	kDefinition	thin, slight, weak; poor, stingy
+U+4FDD	kMandarin	bǎo
+U+4FDD	kDefinition	protect, safeguard, defend, care
+U+5BF6	kMandarin	bǎo
+U+5BF6	kDefinition	treasure, jewel; precious, rare
+U+66B4	kMandarin	bào
+U+66B4	kDefinition	violent, brutal, tyrannical
+U+60B2	kMandarin	bēi
+U+60B2	kDefinition	sorrow, grief; sorry, sad
+U+5317	kMandarin	běi
+U+5317	kDefinition	north; northern; northward
+U+5099	kMandarin	bèi
+U+5099	kDefinition	prepare, ready, perfect
+U+80CC	kMandarin	bèi
+U+80CC	kDefinition	back; back side; behind; betray
+U+8C9D	kMandarin	bèi
+U+8C9D	kDefinition	sea shell; money, currency; Kangxi radical 154
+U+5954	kMandarin	bēn
+U+5954	kDefinition	run fast, flee; rush about; run
+U+672C	kMandarin	běn
+U+672C	kDefinition	root, origin, source; basis
+U+9F3B	kMandarin	bí
+U+9F3B	kDefinition	nose; first; Kangxi radical 209
+U+59A3	kMandarin	bǐ
+U+59A3	kDefinition	one's deceased mother
+U+6BD4	kMandarin	bǐ
+U+6BD4	kDefinition	to compare, liken; comparison; than; hexagram ䷇
+U+5FC5	kMandarin	bì
+U+5FC5	kDefinition	surely, most certainly; must
+U+655D	kMandarin	bì
+U+655D	kDefinition	break, destroy; broken, tattered
+U+6583	kMandarin	bì
+U+6583	kDefinition	kill; die violent death
+U+8CC1	kMandarin	bì
+U+8CC1	kDefinition	forge ahead; energetic; surname; hexagram ䷕
+U+53D8	kMandarin	biàn
+U+53D8	kDefinition	change, transform, alter; rebel
+U+8B8A	kMandarin	biàn
+U+8B8A	kDefinition	change, transform, alter; rebel
+U+8FA9	kMandarin	biàn
+U+8FA9	kDefinition	dispute, argue, debate, discuss
+U+8FAF	kMandarin	biàn
+U+8FAF	kDefinition	dispute, argue, debate, discuss
+U+5225	kMandarin	bié
+U+5225	kDefinition	separate, other; do not
+U+5175	kMandarin	bīng
+U+5175	kDefinition	soldier, troops
+U+51B0	kMandarin	bīng
+U+51B0	kDefinition	ice; ice-cold
+U+4E26	kMandarin	bìng
+U+4E26	kDefinition	equal to; side by side; also, what is more; both
+U+5E76	kMandarin	bìng
+U+5E76	kDefinition	combine, annex; also, what's more
+U+75C5	kMandarin	bìng
+U+75C5	kDefinition	illness, sickness, disease
+U+525D	kMandarin	bō
+U+525D	kDefinition	peel, peel off, to shell, strip; hexagram ䷖
+U+8543	kMandarin	bō
+U+8543	kDefinition	foreign things
+U+535A	kMandarin	bó
+U+535A	kDefinition	gamble, play games; wide, broad
+U+8DDB	kMandarin	bǒ
+U+8DDB	kDefinition	lame
+U+54FA	kMandarin	bǔ
+U+54FA	kDefinition	chew food; feed
+U+4E0D	kMandarin	bù
+U+4E0D	kDefinition	no, not; un-; negative prefix
+U+91C7	kMandarin	cǎi
+U+91C7	kDefinition	collect, gather; pick, pluck
+U+53C3	kMandarin	cān
+U+53C3	kDefinition	take part in, intervene; ginseng
+U+9910	kMandarin	cān
+U+9910	kDefinition	eat, dine; meal; food
+U+9A42	kMandarin	cān
+U+9A42	kDefinition	two outside ones in three horse
+U+5009	kMandarin	cāng
+U+5009	kDefinition	granary; berth; sea
+U+6EC4	kMandarin	cāng
+U+6EC4	kDefinition	blue, dark green; cold
+U+85CF	kMandarin	cáng
+U+85CF	kDefinition	hide, conceal; hoard, store up
+U+5DEE	kMandarin	chà
+U+5DEE	kDefinition	to differ; different, wrong; nearly, almost; an officer
+U+5B71	kMandarin	chán
+U+5B71	kDefinition	weak, unfit, frail, feeble
+U+7522	kMandarin	chǎn
+U+7522	kDefinition	give birth, bring forth, produce
+U+660C	kMandarin	chāng
+U+660C	kDefinition	light of sun; good, proper
+U+5E38	kMandarin	cháng
+U+5E38	kDefinition	common, normal, frequent, regular
+U+5DE2	kMandarin	cháo
+U+5DE2	kDefinition	nest, living quarter in tree
+U+8ECA	kMandarin	chē
+U+8ECA	kDefinition	cart, vehicle; carry in a cart; Kangxi radical 159
+U+5FB9	kMandarin	chè
+U+5FB9	kDefinition	penetrate, pervade; penetrating
+U+81E3	kMandarin	chén
+U+81E3	kDefinition	minister, statesman, official; Kangxi radical 131
+U+8FB0	kMandarin	chén
+U+8FB0	kDefinition	early morning; fifth earthly branch; Kangxi radical 161
+U+9673	kMandarin	chén
+U+9673	kDefinition	exhibit, display; plead; surname
+U+4E58	kMandarin	chéng
+U+4E58	kDefinition	ride, ascend; avail oneself of; numerary adjunct for vehicles
+U+57CE	kMandarin	chéng
+U+57CE	kDefinition	castle; city, town; municipality
+U+6210	kMandarin	chéng
+U+6210	kDefinition	completed, finished, fixed
+U+8AA0	kMandarin	chéng
+U+8AA0	kDefinition	sincere, honest; true, real
+U+8BDA	kMandarin	chéng
+U+8BDA	kDefinition	sincere, honest; true, real
+U+7661	kMandarin	chī
+U+7661	kDefinition	silly, foolish, idiotic
+U+86A9	kMandarin	chī
+U+86A9	kDefinition	worm; ignorant, rustic; laugh
+U+6301	kMandarin	chí
+U+6301	kDefinition	sustain, support; hold, grasp
+U+9072	kMandarin	chí
+U+9072	kDefinition	late, tardy; slow; delay
+U+99B3	kMandarin	chí
+U+99B3	kDefinition	go quickly or swiftly; hurry
+U+7FC5	kMandarin	chì
+U+7FC5	kDefinition	wings; fin
+U+5145	kMandarin	chōng
+U+5145	kDefinition	fill, be full, supply
+U+5BF5	kMandarin	chǒng
+U+5BF5	kDefinition	favorite, concubine; favor
+U+4EC7	kMandarin	chóu
+U+4EC7	kDefinition	enemy, hate, hatred, enmity
+U+6101	kMandarin	chóu
+U+6101	kDefinition	anxiety; to worry about, be anxious
+U+51FA	kMandarin	chū
+U+51FA	kDefinition	go out, send out; stand; produce
+U+521D	kMandarin	chū
+U+521D	kDefinition	beginning, initial, primary
+U+9664	kMandarin	chú
+U+9664	kDefinition	eliminate, remove, except
+U+6035	kMandarin	chù
+U+6035	kDefinition	fear, be afraid; shy, timid
+U+755C	kMandarin	chù
+U+755C	kDefinition	livestock, domestic animals
+U+8655	kMandarin	chù
+U+8655	kDefinition	place, locale; department
+U+50B3	kMandarin	chuán
+U+50B3	kDefinition	summon; propagate, transmit
+U+5507	kMandarin	chún
+U+5507	kDefinition	lips
+U+7D14	kMandarin	chún
+U+7D14	kDefinition	pure, clean, simple
+U+7EAF	kMandarin	chún
+U+7EAF	kDefinition	pure, clean, simple
+U+8F9E	kMandarin	cí
+U+8F9E	kDefinition	words, speech, expression, phrase
+U+8FAD	kMandarin	cí
+U+8FAD	kDefinition	words, speech, expression, phrase
+U+96CC	kMandarin	cí
+U+96CC	kDefinition	female; feminine; gentle, soft
+U+6B64	kMandarin	cǐ
+U+6B64	kDefinition	this, these; in this case, then
+U+4F3A	kMandarin	cì
+U+4F3A	kDefinition	serve, wait upon, attend; examine
+U+523A	kMandarin	cì
+U+523A	kDefinition	stab; prick, irritate; prod
+U+8CDC	kMandarin	cì
+U+8CDC	kDefinition	give, bestow favors; appoint
+U+4ECE	kMandarin	cóng
+U+4ECE	kDefinition	from, by, since, whence, through
+U+5F9E	kMandarin	cóng
+U+5F9E	kDefinition	from, by, since, whence, through
+U+60B4	kMandarin	cuì
+U+60B4	kDefinition	suffer, become emaciated, haggard
+U+7CB9	kMandarin	cuì
+U+7CB9	kDefinition	pure; unadulterated; select
+U+8403	kMandarin	cuì
+U+8403	kDefinition	dense, thick, close-set; to collect together; hexagram ䷬
+U+5B58	kMandarin	cún
+U+5B58	kDefinition	exist, live, be; survive; remain
+U+8345	kMandarin	dā
+U+8345	kDefinition	answer: small bean; thick
+U+5927	kMandarin	dà
+U+5927	kDefinition	big, great, vast, large, high
+U+6020	kMandarin	dài
+U+6020	kDefinition	idle, remiss, negligent; neglect
+U+6234	kMandarin	dài
+U+6234	kDefinition	wear on top; support
+U+6B86	kMandarin	dài
+U+6B86	kDefinition	dangerous, perilous; endanger
+U+4E39	kMandarin	dān
+U+4E39	kDefinition	cinnabar (native HgS); vermilion (artificial HgS used as pigment)
+U+510B	kMandarin	dān
+U+510B	kDefinition	a small jar; to bear a burden; a load of two
+U+4F46	kMandarin	dàn
+U+4F46	kDefinition	only; but, however, yet, still
+U+5F48	kMandarin	dàn
+U+5F48	kDefinition	pellet, bullet, shot, shell
+U+7576	kMandarin	dāng
+U+7576	kDefinition	bear, accept, undertake; just
+U+5012	kMandarin	dào
+U+5012	kDefinition	fall over; lie down; take turns
+U+76DC	kMandarin	dào
+U+76DC	kDefinition	rob, steal; thief, bandit
+U+9053	kMandarin	dào
+U+9053	kDefinition	path, road, street; method, way
+U+5F97	kMandarin	dé
+U+5F97	kDefinition	obtain, get, gain, acquire
+U+5FB7	kMandarin	dé
+U+5FB7	kDefinition	ethics, morality, virtue
+U+5730	kMandarin	de
+U+5730	kDefinition	earth; soil, ground; region
+U+767B	kMandarin	dēng
+U+767B	kDefinition	rise, mount, board, climb
+U+7B49	kMandarin	děng
+U+7B49	kDefinition	rank, grade; to wait; equal, “and so forth”
+U+4F4E	kMandarin	dī
+U+4F4E	kDefinition	low; to lower, hang, bend, bow
+U+6575	kMandarin	dí
+U+6575	kDefinition	enemy, foe, rival; resist
+U+837B	kMandarin	dí
+U+837B	kDefinition	reed, Miscanthus saccariflorus
+U+5E1D	kMandarin	dì
+U+5E1D	kDefinition	supreme ruler, emperor; god
+U+8DCC	kMandarin	diē
+U+8DCC	kDefinition	stumble, slip, fall down; stamp
+U+9F0E	kMandarin	dǐng
+U+9F0E	kDefinition	large, three-legged bronze caldron; Kangxi radical 206; hexagram ䷱
+U+5B9A	kMandarin	dìng
+U+5B9A	kDefinition	decide, settle, fix
+U+51AC	kMandarin	dōng
+U+51AC	kDefinition	winter, 11th lunar month
+U+6771	kMandarin	dōng
+U+6771	kDefinition	east, eastern, eastward
+U+52A8	kMandarin	dòng
+U+52A8	kDefinition	move, happen; movement, action
+U+52D5	kMandarin	dòng
+U+52D5	kDefinition	move, happen; movement, action
+U+6597	kMandarin	dòu
+U+6597	kDefinition	a dipper; unit of volume (ten 升 or litres); Kangxi radical 68; 8th lunar mansion, determinative star φ Sagittarii
+U+9B2D	kMandarin	dòu
+U+9B2D	kDefinition	struggle, fight, compete, contend; (Cant.) woodwork, carpentry
+U+7368	kMandarin	dú
+U+7368	kDefinition	alone, single, solitary, only
+U+7779	kMandarin	dǔ
+U+7779	kDefinition	look at, gaze at; observe
+U+89A9	kMandarin	dǔ
+U+89A9	kDefinition	see, gaze at, witness
+U+8839	kMandarin	dù
+U+8839	kDefinition	moth; insects which eat into cloth
+U+7AEF	kMandarin	duān
+U+7AEF	kDefinition	end, extreme; head; beginning
+U+514C	kMandarin	duì
+U+514C	kDefinition	cash; exchange, barter; weight; trigram ☱; hexagram ䷹
+U+9041	kMandarin	dùn
+U+9041	kDefinition	hide, conceal oneself; escape
+U+906F	kMandarin	dùn
+U+906F	kDefinition	deceive, hide, conceal; flee; hexagram ䷠
+U+591A	kMandarin	duō
+U+591A	kDefinition	much, many; more than, over
+U+60E1	kMandarin	è
+U+60E1	kDefinition	evil, wicked, bad, foul
+U+9913	kMandarin	è
+U+9913	kDefinition	hungry; greedy for; hunger
+U+6069	kMandarin	ēn
+U+6069	kDefinition	kindness, mercy, charity
+U+800C	kMandarin	ér
+U+800C	kDefinition	and; and then; and yet; but; Kangxi radical 126
+U+4E8C	kMandarin	èr
+U+4E8C	kDefinition	two; twice
+U+53D1	kMandarin	fā
+U+53D1	kDefinition	issue, dispatch, send out; hair
+U+767C	kMandarin	fā
+U+767C	kDefinition	issue, dispatch, send out, emit
+U+4F10	kMandarin	fá
+U+4F10	kDefinition	cut down, subjugate, attack
+U+7F70	kMandarin	fá
+U+7F70	kDefinition	penalty, fine; punish, penalize
+U+85E9	kMandarin	fān
+U+85E9	kDefinition	fence; boundary; outlying border
+U+53CD	kMandarin	fǎn
+U+53CD	kDefinition	reverse, opposite, contrary, anti
+U+72AF	kMandarin	fàn
+U+72AF	kDefinition	commit crime, violate; criminal
+U+623F	kMandarin	fáng
+U+623F	kDefinition	house, building; room; 4th lunar mansion, determinative star π Scorpii
+U+653E	kMandarin	fàng
+U+653E	kDefinition	put, release, free, liberate
+U+975E	kMandarin	fēi
+U+975E	kDefinition	not, negative, non-; oppose; Kangxi radical 175
+U+98DB	kMandarin	fēi
+U+98DB	kDefinition	fly; go quickly; dart; high; Kangxi radical 183
+U+98DE	kMandarin	fēi
+U+98DE	kDefinition	fly; go quickly; dart; high
+U+5420	kMandarin	fèi
+U+5420	kDefinition	bark
+U+5EE2	kMandarin	fèi
+U+5EE2	kDefinition	abrogate, terminate, discard
+U+5206	kMandarin	fēn
+U+5206	kDefinition	divide; small unit of time etc.
+U+5C01	kMandarin	fēng
+U+5C01	kDefinition	letter, envelope; feudal
+U+8C50	kMandarin	fēng
+U+8C50	kDefinition	abundant, lush, bountiful, plenty; hexagram ䷶
+U+98A8	kMandarin	fēng
+U+98A8	kDefinition	wind; air; manners, atmosphere; Kangxi radical 182
+U+98CE	kMandarin	fēng
+U+98CE	kDefinition	wind; air; manners, atmosphere
+U+9022	kMandarin	féng
+U+9022	kDefinition	come upon, happen meet; flatter
+U+5949	kMandarin	fèng
+U+5949	kDefinition	offer; receive; serve; respect
+U+9CF3	kMandarin	fèng
+U+9CF3	kDefinition	male phoenix; symbol of joy
+U+5426	kMandarin	fǒu
+U+5426	kDefinition	not, no, negative; final particle; hexagram ䷋
+U+592B	kMandarin	fū
+U+592B	kDefinition	man, male adult, husband; those
+U+4F0F	kMandarin	fú
+U+4F0F	kDefinition	crouch, crawl, lie hidden, conceal
+U+4FD8	kMandarin	fú
+U+4FD8	kDefinition	prisoner of war; take as prisoner
+U+5B5A	kMandarin	fú
+U+5B5A	kDefinition	brood over eggs; have confidence
+U+5F17	kMandarin	fú
+U+5F17	kDefinition	not, negative
+U+670D	kMandarin	fú
+U+670D	kDefinition	clothes; wear, dress
+U+798F	kMandarin	fú
+U+798F	kDefinition	happiness, good fortune, blessing
+U+90DB	kMandarin	fú
+U+90DB	kDefinition	outer walls of city; suburbs
+U+5E9C	kMandarin	fǔ
+U+5E9C	kDefinition	prefecture; prefect; government
+U+8F14	kMandarin	fǔ
+U+8F14	kDefinition	cheek bone; protective; assist
+U+8F85	kMandarin	fǔ
+U+8F85	kDefinition	cheek bone; protective; assist
+U+590D	kMandarin	fù
+U+590D	kDefinition	return; repeat; repeatedly
+U+5A66	kMandarin	fù
+U+5A66	kDefinition	married women; woman; wife
+U+5BCC	kMandarin	fù
+U+5BCC	kDefinition	abundant, ample; rich, wealthy
+U+5FA9	kMandarin	fù
+U+5FA9	kDefinition	return; repeat; repeatedly; hexagram ䷗
+U+7236	kMandarin	fù
+U+7236	kDefinition	father; Kangxi radical 88
+U+8907	kMandarin	fù
+U+8907	kDefinition	repeat, double, overlap
+U+8986	kMandarin	fù
+U+8986	kDefinition	cover; tip over; return; reply
+U+8CA0	kMandarin	fù
+U+8CA0	kDefinition	load, burden; carry, bear
+U+84CB	kMandarin	gài
+U+84CB	kDefinition	cover, hide, protect
+U+7518	kMandarin	gān
+U+7518	kDefinition	sweetness; sweet, tasty
+U+6562	kMandarin	gǎn
+U+6562	kDefinition	to dare, venture; bold, brave
+U+5E72	kMandarin	gàn
+U+5E72	kDefinition	oppose, offend; invade; dried
+U+5E79	kMandarin	gàn
+U+5E79	kDefinition	trunk of tree or of human body
+U+521A	kMandarin	gāng
+U+521A	kDefinition	hard, tough, rigid, strong
+U+525B	kMandarin	gāng
+U+525B	kDefinition	hard, tough, rigid, strong
+U+7F94	kMandarin	gāo
+U+7F94	kDefinition	lamb, kid
+U+9AD8	kMandarin	gāo
+U+9AD8	kDefinition	high, tall; lofty, elevated; Kangxi radical 189
+U+69C1	kMandarin	gǎo
+U+69C1	kDefinition	wither; withered, rotten, dead
+U+683C	kMandarin	gé
+U+683C	kDefinition	pattern, standard, form; style
+U+9769	kMandarin	gé
+U+9769	kDefinition	leather, animal hides; Kangxi radical 177; hexagram ䷰
+U+5404	kMandarin	gè
+U+5404	kDefinition	each, individually, every, all
+U+8DDF	kMandarin	gēn
+U+8DDF	kDefinition	heel; to follow, accompany; with
+U+826E	kMandarin	gěn
+U+826E	kDefinition	Kangxi radical 138; trigram ☶; hexagram ䷳
+U+8015	kMandarin	gēng
+U+8015	kDefinition	plow, cultivate
+U+6897	kMandarin	gěng
+U+6897	kDefinition	stem of flower, branch of plant
+U+66F4	kMandarin	gèng
+U+66F4	kDefinition	more, still further, much more; to change, alter
+U+516C	kMandarin	gōng
+U+516C	kDefinition	fair, equitable; public; duke
+U+529F	kMandarin	gōng
+U+529F	kDefinition	achievement, merit, good result
+U+5F13	kMandarin	gōng
+U+5F13	kDefinition	bow; curved, arched; Kangxi radical 57
+U+72D7	kMandarin	gǒu
+U+72D7	kDefinition	dog, Canis familiaris
+U+59E4	kMandarin	gòu
+U+59E4	kDefinition	mate; copulate; good; hexagram ䷫
+U+5ABE	kMandarin	gòu
+U+5ABE	kDefinition	marry; be on friendly terms with
+U+5B64	kMandarin	gū
+U+5B64	kDefinition	orphan, fatherless; solitary
+U+8F9C	kMandarin	gū
+U+8F9C	kDefinition	crime, criminal offense
+U+7A40	kMandarin	gǔ
+U+7A40	kDefinition	corn, grain, cereal; lucky
+U+8831	kMandarin	gǔ
+U+8831	kDefinition	poison; venom; harm; bewitch; hexagram ䷑
+U+8C37	kMandarin	gǔ
+U+8C37	kDefinition	valley, gorge, ravine; Kangxi radical 150
+U+9F13	kMandarin	gǔ
+U+9F13	kDefinition	drum; beat, top, strike; Kangxi radical 207
+U+56FA	kMandarin	gù
+U+56FA	kDefinition	to become solid, solidify; strength
+U+6545	kMandarin	gù
+U+6545	kDefinition	ancient, old; reason, because
+U+5366	kMandarin	guà
+U+5366	kDefinition	fortune telling; tell fortunes
+U+8A7F	kMandarin	guà
+U+8A7F	kDefinition	error, mistake; deceive, mislead
+U+592C	kMandarin	guài
+U+592C	kDefinition	parted; fork; certain; hexagram ䷪
+U+89C0	kMandarin	guān
+U+89C0	kDefinition	see, observe, view; appearance; hexagram ䷓
+U+95DC	kMandarin	guān
+U+95DC	kDefinition	frontier pass; close; relation
+U+5149	kMandarin	guāng
+U+5149	kDefinition	light, brilliant, shine; only
+U+6B78	kMandarin	guī
+U+6B78	kDefinition	return; return to, revert to
+U+9F9C	kMandarin	guī
+U+9F9C	kDefinition	turtle or tortoise; cuckold; Kangxi radical 213
+U+9B3C	kMandarin	guǐ
+U+9B3C	kDefinition	ghost; spirit of dead; devil; Kangxi radical 194; 23rd lunar mansion, determinative star θ Cancri
+U+8CB4	kMandarin	guì
+U+8CB4	kDefinition	expensive, costly, valuable
+U+8D35	kMandarin	guì
+U+8D35	kDefinition	expensive, costly, valuable
+U+90ED	kMandarin	guō
+U+90ED	kDefinition	outer part (of a city); surname
+U+56FD	kMandarin	guó
+U+56FD	kDefinition	nation, country, nation-state
+U+570B	kMandarin	guó
+U+570B	kDefinition	nation, country, nation-state
+U+679C	kMandarin	guǒ
+U+679C	kDefinition	fruit; result
+U+904E	kMandarin	guò
+U+904E	kDefinition	pass, pass through, go across
+U+6D77	kMandarin	hǎi
+U+6D77	kDefinition	sea, ocean; maritime
+U+4EA5	kMandarin	hài
+U+4EA5	kDefinition	twelfth earthly branch
+U+5BB3	kMandarin	hài
+U+5BB3	kDefinition	injure, harm; destroy, kill
+U+5BD2	kMandarin	hán
+U+5BD2	kDefinition	cold, wintry, chilly
+U+65F1	kMandarin	hàn
+U+65F1	kDefinition	drought; dry; dry land
+U+84BF	kMandarin	hāo
+U+84BF	kDefinition	mugwort, artemisia; give off
+U+660A	kMandarin	hào
+U+660A	kDefinition	summer time; sky; heaven
+U+865F	kMandarin	hào
+U+865F	kDefinition	mark, sign; symbol; number
+U+4F55	kMandarin	hé
+U+4F55	kDefinition	what, why, where, which, how
+U+5408	kMandarin	hé
+U+5408	kDefinition	combine, unite, join; gather
+U+548C	kMandarin	hé
+U+548C	kDefinition	harmony, peace; peaceful, calm
+U+6CB3	kMandarin	hé
+U+6CB3	kDefinition	river; stream; the Yellow River
+U+79BE	kMandarin	hé
+U+79BE	kDefinition	grain still on stalk; rice plant
+U+8377	kMandarin	hé
+U+8377	kDefinition	lotus, water lily; Holland
+U+6068	kMandarin	hèn
+U+6068	kDefinition	hatred, dislike; resent, hate
+U+4EA8	kMandarin	hēng
+U+4EA8	kDefinition	smoothly, progressing, no trouble
+U+6046	kMandarin	héng
+U+6046	kDefinition	constant, regular, persistent; hexagram ䷟
+U+6052	kMandarin	héng
+U+6052	kDefinition	constant, regular, persistent
+U+4FAF	kMandarin	hóu
+U+4FAF	kDefinition	marquis, lord; target in archery
+U+5589	kMandarin	hóu
+U+5589	kDefinition	throat, gullet, larynx; guttural
+U+5019	kMandarin	hòu
+U+5019	kDefinition	wait; expect; visit; greet
+U+540E	kMandarin	hòu
+U+540E	kDefinition	queen, empress, sovereign; (simp. for 後) behind, rear, after
+U+5F8C	kMandarin	hòu
+U+5F8C	kDefinition	behind, rear, after; descendents
+U+4E4E	kMandarin	hū
+U+4E4E	kDefinition	interrogative or exclamatory final particle
+U+72D0	kMandarin	hú
+U+72D0	kDefinition	fox
+U+80E1	kMandarin	hú
+U+80E1	kDefinition	recklessly, foolishly; wildly
+U+864E	kMandarin	hǔ
+U+864E	kDefinition	tiger; brave, fierce; surname
+U+5316	kMandarin	huà
+U+5316	kDefinition	change, convert, reform; -ize
+U+6DEE	kMandarin	huái
+U+6DEE	kDefinition	river in Anhui province
+U+58DE	kMandarin	huài
+U+58DE	kDefinition	bad, spoil(ed), ruin, destroy
+U+6B61	kMandarin	huān
+U+6B61	kDefinition	happy, pleased, glad; joy; to enjoy
+U+8C86	kMandarin	huán
+U+8C86	kDefinition	small badger; porcupine
+U+60A3	kMandarin	huàn
+U+60A3	kDefinition	suffer, worry about; suffering
+U+6E19	kMandarin	huàn
+U+6E19	kDefinition	scatter; scattered, dispersed; hexagram ䷺
+U+51F0	kMandarin	huáng
+U+51F0	kDefinition	female phoenix
+U+60F6	kMandarin	huáng
+U+60F6	kDefinition	fearful, afraid, anxious, nervous
+U+9EC3	kMandarin	huáng
+U+9EC3	kDefinition	yellow; surname; Kangxi radical 201
+U+6325	kMandarin	huī
+U+6325	kDefinition	direct; wipe away; squander
+U+63EE	kMandarin	huī
+U+63EE	kDefinition	direct; wipe away; squander
+U+6094	kMandarin	huǐ
+U+6094	kDefinition	repent, show remorse, regret
+U+867A	kMandarin	huǐ
+U+867A	kDefinition	large poisonous snake
+U+4F1A	kMandarin	huì
+U+4F1A	kDefinition	assemble, meet together; meeting
+U+60E0	kMandarin	huì
+U+60E0	kDefinition	favor, benefit, confer kindness
+U+6703	kMandarin	huì
+U+6703	kDefinition	to assemble, meet together; a meeting; an organization
+U+706B	kMandarin	huǒ
+U+706B	kDefinition	fire, flame; burn; anger, rage
+U+60D1	kMandarin	huò
+U+60D1	kDefinition	confuse, mislead, baffle; doubt
+U+6216	kMandarin	huò
+U+6216	kDefinition	or, either, else; perhaps, maybe
+U+7372	kMandarin	huò
+U+7372	kDefinition	obtain, get, receive; seize
+U+798D	kMandarin	huò
+U+798D	kDefinition	misfortune, calamity, disaster
+U+59EC	kMandarin	jī
+U+59EC	kDefinition	beauty; imperial concubine
+U+64CA	kMandarin	jī
+U+64CA	kDefinition	strike, hit, beat; attack, fight
+U+7A4D	kMandarin	jī
+U+7A4D	kDefinition	accumulate, store up, amass
+U+96DE	kMandarin	jī
+U+96DE	kDefinition	chickens; domestic fowl
+U+98E2	kMandarin	jī
+U+98E2	kDefinition	hunger, starving; hungry; a famine
+U+53CA	kMandarin	jí
+U+53CA	kDefinition	extend; reach; come up to; and
+U+5409	kMandarin	jí
+U+5409	kDefinition	lucky, propitious, good
+U+6781	kMandarin	jí
+U+6781	kDefinition	extreme, utmost, furthest, final
+U+6975	kMandarin	jí
+U+6975	kDefinition	extreme, utmost, furthest, final
+U+75BE	kMandarin	jí
+U+75BE	kDefinition	illness, disease, sickness; to hate
+U+84BA	kMandarin	jí
+U+84BA	kDefinition	furze; gorse
+U+96C6	kMandarin	jí
+U+96C6	kDefinition	assemble, collect together
+U+51E0	kMandarin	jǐ
+U+51E0	kDefinition	small table
+U+5DF1	kMandarin	jǐ
+U+5DF1	kDefinition	self, oneself; personal, private; 6th heavenly stem
+U+5E7E	kMandarin	jǐ
+U+5E7E	kDefinition	how many? how much?; a few, some
+U+5B63	kMandarin	jì
+U+5B63	kDefinition	quarter of year; season; surname
+U+65E2	kMandarin	jì
+U+65E2	kDefinition	already; de facto; since; then
+U+6FDF	kMandarin	jì
+U+6FDF	kDefinition	to help, aid, relieve; to ferry, cross
+U+7A37	kMandarin	jì
+U+7A37	kDefinition	god of cereals; minister of agriculture
+U+8FF9	kMandarin	jì
+U+8FF9	kDefinition	traces, impressions, footprints
+U+5609	kMandarin	jiā
+U+5609	kDefinition	excellent; joyful; auspicious
+U+5BB6	kMandarin	jiā
+U+5BB6	kDefinition	house, home, residence; family
+U+9D36	kMandarin	jiá
+U+7532	kMandarin	jiǎ
+U+7532	kDefinition	armor, shell; fingernails; 1st heavenly stem
+U+8CC8	kMandarin	jiǎ
+U+8CC8	kDefinition	surname; merchant; buy, trade
+U+5AC1	kMandarin	jià
+U+5AC1	kDefinition	to marry, give a daughter in marriage
+U+7A3C	kMandarin	jià
+U+7A3C	kDefinition	sow grain; sheaves of grain
+U+99D5	kMandarin	jià
+U+99D5	kDefinition	to drive, sail, fly; a cart, carriage
+U+5805	kMandarin	jiān
+U+5805	kDefinition	hard, strong, firm; resolute
+U+59E6	kMandarin	jiān
+U+59E6	kDefinition	adultery, debauchery; debauch
+U+7E6D	kMandarin	jiǎn
+U+7E6D	kDefinition	cocoon; callus, blister
+U+8E47	kMandarin	jiǎn
+U+8E47	kDefinition	lame, crippled; unlucky; hexagram ䷦
+U+5065	kMandarin	jiàn
+U+5065	kDefinition	strong, robust, healthy; strength
+U+5EFA	kMandarin	jiàn
+U+5EFA	kDefinition	build, establish, erect, found
+U+6F38	kMandarin	jiàn
+U+6F38	kDefinition	gradually; hexagram ䷴
+U+6F97	kMandarin	jiàn
+U+6F97	kDefinition	brook, mountain stream
+U+898B	kMandarin	jiàn
+U+898B	kDefinition	see, observe, behold; perceive; Kangxi radical 147
+U+89C1	kMandarin	jiàn
+U+89C1	kDefinition	see, observe, behold; perceive
+U+59DC	kMandarin	jiāng
+U+59DC	kDefinition	surname; ginger
+U+6C5F	kMandarin	jiāng
+U+6C5F	kDefinition	large river; the Yangzi; surname
+U+964D	kMandarin	jiàng
+U+964D	kDefinition	descend, fall, drop; lower, down
+U+4EA4	kMandarin	jiāo
+U+4EA4	kDefinition	mix; intersect; exchange, communicate; deliver
+U+7126	kMandarin	jiāo
+U+7126	kDefinition	burned, scorched; anxious, vexed
+U+9A55	kMandarin	jiāo
+U+9A55	kDefinition	spirited horse; haughty
+U+9A84	kMandarin	jiāo
+U+9A84	kDefinition	spirited horse; haughty
+U+768E	kMandarin	jiǎo
+U+768E	kDefinition	white; bright, brilliant; clear
+U+89D2	kMandarin	jiǎo
+U+89D2	kDefinition	horn; angle, corner; point; Kangxi radical 148; 1st lunar mansion, determinative star Spica
+U+7686	kMandarin	jiē
+U+7686	kDefinition	all, every, everybody
+U+6840	kMandarin	jié
+U+6840	kDefinition	chicken roost; ancient emperor
+U+7AED	kMandarin	jié
+U+7AED	kDefinition	put forth great effort; exhaust
+U+7BC0	kMandarin	jié
+U+7BC0	kDefinition	knot, node, joint; section; hexagram ䷻
+U+89E3	kMandarin	jiě
+U+89E3	kDefinition	loosen, unfasten, untie; explain; hexagram ䷧
+U+91D1	kMandarin	jīn
+U+91D1	kDefinition	gold; metals in general; money; Kangxi radical 167
+U+76E1	kMandarin	jǐn
+U+76E1	kDefinition	exhaust, use up; deplete
+U+8B39	kMandarin	jǐn
+U+8B39	kDefinition	prudent, cautious; attentive
+U+8C28	kMandarin	jǐn
+U+8C28	kDefinition	prudent, cautious; attentive
+U+6649	kMandarin	jìn
+U+6649	kDefinition	advance, increase; promote; hexagram ䷢
+U+8FD1	kMandarin	jìn
+U+8FD1	kDefinition	near, close; approach; intimate
+U+8FDB	kMandarin	jìn
+U+8FDB	kDefinition	advance, make progress, enter
+U+9032	kMandarin	jìn
+U+9032	kDefinition	advance, make progress, enter
+U+6676	kMandarin	jīng
+U+6676	kDefinition	crystal; clear, bright; radiant
+U+7CBE	kMandarin	jīng
+U+7CBE	kDefinition	essence; semen; spirit
+U+834A	kMandarin	jīng
+U+834A	kDefinition	thorns; brambles; my wife; cane
+U+9A5A	kMandarin	jīng
+U+9A5A	kDefinition	frighten, surprise, startle
+U+4E95	kMandarin	jǐng
+U+4E95	kDefinition	well, mine shaft, pit; surname; 22nd lunar mansion, determinative star μ Geminorum (Tejat); hexagram ䷯
+U+5F91	kMandarin	jìng
+U+5F91	kDefinition	narrow path; diameter; direct
+U+656C	kMandarin	jìng
+U+656C	kDefinition	respect, honor; respectfully
+U+975C	kMandarin	jìng
+U+975C	kDefinition	quiet, still, motionless; gentle
+U+9CE9	kMandarin	jiū
+U+9CE9	kDefinition	pigeon, dove; collect, assemble
+U+4E45	kMandarin	jiǔ
+U+4E45	kDefinition	long time (ago); time passage, grow late
+U+4E5D	kMandarin	jiǔ
+U+4E5D	kDefinition	nine
+U+9152	kMandarin	jiǔ
+U+9152	kDefinition	wine, spirits, liquor, alcoholic beverage
+U+548E	kMandarin	jiù
+U+548E	kDefinition	fault, defect; error, mistake
+U+5C31	kMandarin	jiù
+U+5C31	kDefinition	just, simply; to come, go to; to approach, near
+U+5C45	kMandarin	jū
+U+5C45	kDefinition	live, dwell, reside, sit
+U+6A58	kMandarin	jú
+U+6A58	kDefinition	orange, tangerine
+U+9D74	kMandarin	jú
+U+8209	kMandarin	jǔ
+U+8209	kDefinition	raise, lift up; recommend
+U+4FF1	kMandarin	jù
+U+4FF1	kDefinition	all, together; accompany
+U+62D2	kMandarin	jù
+U+62D2	kDefinition	ward off with hand, defend
+U+636E	kMandarin	jù
+U+636E	kDefinition	to occupy, take possession of; a base, position
+U+64DA	kMandarin	jù
+U+64DA	kDefinition	to occupy, take possession of; a base
+U+805A	kMandarin	jù
+U+805A	kDefinition	assemble, meet together, collect
+U+8DDD	kMandarin	jù
+U+8DDD	kDefinition	distance; bird's spur
+U+6C7A	kMandarin	jué
+U+6C7A	kDefinition	decide, determine, judge
+U+7D55	kMandarin	jué
+U+7D55	kDefinition	cut, sever, break off, terminate
+U+541B	kMandarin	jūn
+U+541B	kDefinition	sovereign, monarch, ruler, chief, prince
+U+958B	kMandarin	kāi
+U+958B	kDefinition	open; initiate, begin, start
+U+574E	kMandarin	kǎn
+U+574E	kDefinition	pit, hole; snare, trap; crisis; trigram ☵; hexagram ䷜
+U+4EA2	kMandarin	kàng
+U+4EA2	kDefinition	high, proud; violent, excessive; skilled; name; 2nd lunar mansion, determinative star κ Virginis (Kang)
+U+8003	kMandarin	kǎo
+U+8003	kDefinition	examine, test; investigate
+U+55D1	kMandarin	kē
+U+55D1	kDefinition	eat seeds; reproach; loquacious
+U+53EF	kMandarin	kě
+U+53EF	kDefinition	may, can, -able; possibly
+U+514B	kMandarin	kè
+U+514B	kDefinition	gram; overcome; transliteration
+U+7A7A	kMandarin	kōng
+U+7A7A	kDefinition	empty, hollow, bare, deserted
+U+6050	kMandarin	kǒng
+U+6050	kDefinition	fear; fearful, apprehensive
+U+53E3	kMandarin	kǒu
+U+53E3	kDefinition	mouth; open end; entrance, gate
+U+5BC7	kMandarin	kòu
+U+5BC7	kDefinition	bandits, thieves; enemy; invade
+U+67AF	kMandarin	kū
+U+67AF	kDefinition	dried out, withered, decayed
+U+82E6	kMandarin	kǔ
+U+82E6	kDefinition	bitter; hardship, suffering
+U+5FEB	kMandarin	kuài
+U+5FEB	kDefinition	rapid, quick, speedy, fast; soon
+U+5BBD	kMandarin	kuān
+U+5BBD	kDefinition	broad, wide; spacious, vast
+U+5BEC	kMandarin	kuān
+U+5BEC	kDefinition	broad, wide; spacious, vast
+U+51B5	kMandarin	kuàng
+U+51B5	kDefinition	condition, situation; furthermore
+U+66E0	kMandarin	kuàng
+U+66E0	kDefinition	extensive, wide, broad; empty
+U+6CC1	kMandarin	kuàng
+U+6CC1	kDefinition	condition, situation; furthermore
+U+8667	kMandarin	kuī
+U+8667	kDefinition	lose, fail; damage; deficient
+U+777D	kMandarin	kuí
+U+777D	kDefinition	to squint; to stare at; unusual, strange; hexagram ䷥
+U+6F70	kMandarin	kuì
+U+6F70	kDefinition	flooding river; militarily defeat
+U+5764	kMandarin	kūn
+U+5764	kDefinition	earth; feminine, female; trigram ☷; hexagram ䷁
+U+56F0	kMandarin	kùn
+U+56F0	kDefinition	to surround, besiege; to be surrounded; difficult; hexagram ䷮
+U+4F86	kMandarin	lái
+U+4F86	kDefinition	come, coming; return, returning
+U+72FC	kMandarin	láng
+U+72FC	kDefinition	wolf
+U+52DE	kMandarin	láo
+U+52DE	kDefinition	labor, toil, do manual work
+U+4E50	kMandarin	lè
+U+4E50	kDefinition	happy, glad; enjoyable; music
+U+6A02	kMandarin	lè
+U+6A02	kDefinition	happy, glad; enjoyable; music
+U+7C7B	kMandarin	lèi
+U+7C7B	kDefinition	class, group, kind, category
+U+7D2F	kMandarin	lèi
+U+7D2F	kDefinition	tired; implicate, involve; bother
+U+985E	kMandarin	lèi
+U+985E	kDefinition	class, group, kind, category
+U+79BB	kMandarin	lí
+U+79BB	kDefinition	rare beast; strange; elegant
+U+85DC	kMandarin	lí
+U+85DC	kDefinition	Chenopodium album, pigweed
+U+96E2	kMandarin	lí
+U+96E2	kDefinition	leave, depart; go away; separate; trigram ☲; hexagram ䷝
+U+9A6A	kMandarin	lí
+U+9A6A	kDefinition	a pure black horse; a pair of horses
+U+7406	kMandarin	lǐ
+U+7406	kDefinition	reason, logic; manage
+U+793C	kMandarin	lǐ
+U+793C	kDefinition	social custom; manners; courtesy; rites
+U+79AE	kMandarin	lǐ
+U+79AE	kDefinition	social custom; manners; courtesy; rites
+U+91CC	kMandarin	lǐ
+U+91CC	kDefinition	unit of distance; village; lane; Kangxi radical 166
+U+4F8B	kMandarin	lì
+U+4F8B	kDefinition	precedent, example; regulation
+U+5229	kMandarin	lì
+U+5229	kDefinition	gains, advantage, profit, merit
+U+529B	kMandarin	lì
+U+529B	kDefinition	power, capability, influence; Kangxi radical 19
+U+5389	kMandarin	lì
+U+5389	kDefinition	whetstone; grind, sharpen; whet
+U+53B2	kMandarin	lì
+U+53B2	kDefinition	whetstone; grind, sharpen; whet
+U+6817	kMandarin	lì
+U+6817	kDefinition	chestnut tree, chestnuts; surname
+U+7ACB	kMandarin	lì
+U+7ACB	kDefinition	stand; let stand; establish, set
+U+7C92	kMandarin	lì
+U+7C92	kDefinition	grain; small particle
+U+6190	kMandarin	lián
+U+6190	kDefinition	pity, sympathize
+U+9023	kMandarin	lián
+U+9023	kDefinition	join, connect; continuous; even
+U+7CE7	kMandarin	liáng
+U+7CE7	kDefinition	food, grain, provisions
+U+5169	kMandarin	liǎng
+U+5169	kDefinition	two, both, pair, couple; ounce
+U+52A3	kMandarin	liè
+U+52A3	kDefinition	bad, inferior; slightly
+U+81E8	kMandarin	lín
+U+81E8	kDefinition	draw near, approach; descend; hexagram ䷒
+U+9675	kMandarin	líng
+U+9675	kDefinition	hill, mound; mausoleum
+U+6D41	kMandarin	liú
+U+6D41	kDefinition	flow, circulate, drift; class
+U+516D	kMandarin	liù
+U+516D	kDefinition	number six
+U+807E	kMandarin	lóng
+U+807E	kDefinition	deaf
+U+9F8D	kMandarin	lóng
+U+9F8D	kDefinition	dragon; Kangxi radical 212
+U+9F99	kMandarin	lóng
+U+9F99	kDefinition	dragon; symbolic of emperor
+U+5EEC	kMandarin	lú
+U+5EEC	kDefinition	hut, cottage; name of a mountain
+U+5C65	kMandarin	lǚ
+U+5C65	kDefinition	footwear, shoes; walk on, tread; hexagram ䷉
+U+65C5	kMandarin	lǚ
+U+65C5	kDefinition	trip, journey; travel; traveler; hexagram ䷷
+U+9B6F	kMandarin	lǔ
+U+9B6F	kDefinition	foolish, stupid, rash; vulgar
+U+616E	kMandarin	lǜ
+U+616E	kDefinition	be concerned, worry about
+U+797F	kMandarin	lù
+U+797F	kDefinition	blessing, happiness, prosperity
+U+83C9	kMandarin	lù
+U+83C9	kDefinition	the green bamboo; greenish bamboo
+U+8DEF	kMandarin	lù
+U+8DEF	kDefinition	road, path, street; journey
+U+4E82	kMandarin	luàn
+U+4E82	kDefinition	confusion, state of chaos; create chaos, revolt
+U+8AD6	kMandarin	lùn
+U+8AD6	kDefinition	debate; discuss; discourse
+U+99AC	kMandarin	mǎ
+U+99AC	kDefinition	horse; surname; Kangxi radical 187
+U+6EFF	kMandarin	mǎn
+U+6EFF	kDefinition	fill; full, satisfied
+U+76F2	kMandarin	máng
+U+76F2	kDefinition	blind; unperceptive, shortsighted
+U+7F8E	kMandarin	měi
+U+7F8E	kDefinition	beautiful, pretty; pleasing
+U+59B9	kMandarin	mèi
+U+59B9	kDefinition	younger sister
+U+6627	kMandarin	mèi
+U+6627	kDefinition	obscure, dark; darken
+U+9B45	kMandarin	mèi
+U+9B45	kDefinition	kind of forest demon, elf
+U+9580	kMandarin	mén
+U+9580	kDefinition	gate, door, entrance, opening; Kangxi radical 169
+U+60B6	kMandarin	mèn
+U+60B6	kDefinition	gloomy, depressed, melancholy
+U+95F7	kMandarin	mèn
+U+95F7	kDefinition	gloomy, depressed, melancholy
+U+8499	kMandarin	méng
+U+8499	kDefinition	cover; ignorant; suffer; Mongolia; hexagram ䷃
+U+8FF7	kMandarin	mí
+U+8FF7	kDefinition	bewitch, charm, infatuate
+U+9761	kMandarin	mí
+U+9761	kDefinition	divide, disperse, scatter
+U+514D	kMandarin	miǎn
+U+514D	kDefinition	spare; excuse from; evade
+U+9762	kMandarin	miàn
+U+9762	kDefinition	face; surface; plane; side, dimension; Kangxi radical 176
+U+5EDF	kMandarin	miào
+U+5EDF	kDefinition	temple, shrine; imperial court
+U+6C11	kMandarin	mín
+U+6C11	kDefinition	people, subjects, citizens
+U+51A5	kMandarin	míng
+U+51A5	kDefinition	dark, gloomy, night; deep
+U+540D	kMandarin	míng
+U+540D	kDefinition	name, rank, title, position
+U+660E	kMandarin	míng
+U+660E	kDefinition	bright, light, brilliant; clear
+U+9CF4	kMandarin	míng
+U+9CF4	kDefinition	cry of bird or animal; make sound
+U+547D	kMandarin	mìng
+U+547D	kDefinition	life; destiny, fate, luck; an order, instruction
+U+8B2C	kMandarin	miù
+U+8B2C	kDefinition	error, exaggeration; erroneous
+U+83AB	kMandarin	mò
+U+83AB	kDefinition	do not, is not, can not; negative
+U+6BCD	kMandarin	mǔ
+U+6BCD	kDefinition	mother; female elders; female
+U+66AE	kMandarin	mù
+U+66AE	kDefinition	evening, dusk, sunset; ending
+U+6728	kMandarin	mù
+U+6728	kDefinition	tree; wood, lumber; wooden
+U+76EE	kMandarin	mù
+U+76EE	kDefinition	eye; look, see; division, topic; Kangxi radical 109
+U+7D0D	kMandarin	nà
+U+7D0D	kDefinition	admit, take, receive, accept
+U+4E43	kMandarin	nǎi
+U+4E43	kDefinition	then; really, indeed; as it turned out, after all; namely
+U+5357	kMandarin	nán
+U+5357	kDefinition	south; southern part; southward
+U+7537	kMandarin	nán
+U+7537	kDefinition	male, man; son; baron; surname
+U+96E3	kMandarin	nán
+U+96E3	kDefinition	difficult, arduous, hard; unable
+U+5167	kMandarin	nèi
+U+5167	kDefinition	inside, interior; domestic
+U+80FD	kMandarin	néng
+U+80FD	kDefinition	to be able; can, permitted to; ability
+U+5C3C	kMandarin	ní
+U+5C3C	kDefinition	Buddhist nun; transliteration
+U+5FF5	kMandarin	niàn
+U+5FF5	kDefinition	think of, recall, study
+U+9CE5	kMandarin	niǎo
+U+9CE5	kDefinition	bird; Kangxi radical 196
+U+5B81	kMandarin	níng
+U+5B81	kDefinition	calm, peaceful, serene; healthy
+U+5BE7	kMandarin	níng
+U+5BE7	kDefinition	repose, serenity, peace; peaceful
+U+4F5E	kMandarin	nìng
+U+4F5E	kDefinition	flattery; glib
+U+725B	kMandarin	niú
+U+725B	kDefinition	cow, ox, bull; Kangxi radical 93; 9th lunar mansion, determinative star β Capricorni (Dabih)
+U+99D1	kMandarin	nú
+U+99D1	kDefinition	tired, old horse; old, weak
+U+5973	kMandarin	nǚ
+U+5973	kDefinition	woman, girl; feminine; Kangxi radical 38; 10th lunar mansion, determinative star ε Aquarii (Albali)
+U+5076	kMandarin	ǒu
+U+5076	kDefinition	accidentally, coincidently; an idol
+U+65C1	kMandarin	páng
+U+65C1	kDefinition	side; by side, close by, near
+U+888D	kMandarin	páo
+U+888D	kDefinition	long gown, robe, cloak
+U+914D	kMandarin	pèi
+U+914D	kDefinition	match, pair; equal; blend
+U+5F6D	kMandarin	péng
+U+5F6D	kDefinition	name of ancient country; surname
+U+75B2	kMandarin	pí
+U+75B2	kDefinition	feel tired, be exhausted; weak
+U+504F	kMandarin	piān
+U+504F	kDefinition	inclined one side; slanting
+U+54C1	kMandarin	pǐn
+U+54C1	kDefinition	article, product, commodity
+U+8058	kMandarin	pìn
+U+8058	kDefinition	engage, employ; betroth
+U+5C4F	kMandarin	píng
+U+5C4F	kDefinition	folding screen, shield
+U+5E73	kMandarin	píng
+U+5E73	kDefinition	flat, level, even; peaceful
+U+8FEB	kMandarin	pò
+U+8FEB	kDefinition	coerce, force, compel; urgent
+U+666E	kMandarin	pǔ
+U+666E	kDefinition	universal, general, widespread
+U+59BB	kMandarin	qī
+U+59BB	kDefinition	wife
+U+5176	kMandarin	qí
+U+5176	kDefinition	his, her, its, their; that
+U+5C90	kMandarin	qí
+U+5C90	kDefinition	high; majestic; fork in road
+U+9A0E	kMandarin	qí
+U+9A0E	kDefinition	ride horseback; mount; cavalry
+U+9F4A	kMandarin	qí
+U+9F4A	kDefinition	even, uniform, of equal length; Kangxi radical 210
+U+8C48	kMandarin	qǐ
+U+8C48	kDefinition	how? what?
+U+8D77	kMandarin	qǐ
+U+8D77	kDefinition	rise, stand up; go up; begin
+U+5668	kMandarin	qì
+U+5668	kDefinition	receptacle, vessel; instrument
+U+6C14	kMandarin	qì
+U+6C14	kDefinition	steam, vapor; Kangxi radical 84
+U+6C23	kMandarin	qì
+U+6C23	kDefinition	air, gas, steam, vapor; spirit
+U+8B19	kMandarin	qiān
+U+8B19	kDefinition	humble, modest; hexagram ䷎
+U+4E7E	kMandarin	qián
+U+4E7E	kDefinition	dry; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male); trigram ☰; hexagram ䷀
+U+6F5B	kMandarin	qián
+U+6F5B	kDefinition	hide; hidden, secret, latent
+U+6F5C	kMandarin	qián
+U+6F5C	kDefinition	hide; hidden, secret, latent
+U+58BB	kMandarin	qiáng
+U+58BB	kDefinition	wall
+U+5F37	kMandarin	qiáng
+U+5F37	kDefinition	strong, powerful, energetic
+U+5F3A	kMandarin	qiáng
+U+5F3A	kDefinition	strong, powerful, energetic
+U+6194	kMandarin	qiáo
+U+6194	kDefinition	be worn-out, emaciated, haggard
+U+4E14	kMandarin	qiě
+U+4E14	kDefinition	moreover, also (post-subject); about to, will soon (pre-verb)
+U+602F	kMandarin	qiè
+U+602F	kDefinition	lacking in courage, afraid
+U+4EB2	kMandarin	qīn
+U+4EB2	kDefinition	relatives, parents; intimate the hazel nut or filbert tree a thorny tree
+U+89AA	kMandarin	qīn
+U+89AA	kDefinition	relatives, parents; intimate
+U+50BE	kMandarin	qīng
+U+50BE	kDefinition	upset, pour out, overflow
+U+537F	kMandarin	qīng
+U+537F	kDefinition	noble, high officer
+U+60C5	kMandarin	qíng
+U+60C5	kDefinition	feeling, sentiment, emotion
+U+8ACB	kMandarin	qǐng
+U+8ACB	kDefinition	ask, request; invite; please
+U+78EC	kMandarin	qìng
+U+78EC	kDefinition	musical instrument; musical stone
+U+7A77	kMandarin	qióng
+U+7A77	kDefinition	poor, destitute, impoverished
+U+7AAE	kMandarin	qióng
+U+7AAE	kDefinition	poor, destitute, impoverished
+U+6C42	kMandarin	qiú
+U+6C42	kDefinition	seek; demand, request; beseech
+U+9A45	kMandarin	qū
+U+9A45	kDefinition	spur a horse on; expel, drive away
+U+53D6	kMandarin	qǔ
+U+53D6	kDefinition	take, receive, obtain; select
+U+53BB	kMandarin	qù
+U+53BB	kDefinition	go away, leave, depart
+U+5168	kMandarin	quán
+U+5168	kDefinition	maintain, keep whole or intact
+U+62F3	kMandarin	quán
+U+62F3	kDefinition	fist; various forms of boxing
+U+6CC9	kMandarin	quán
+U+6CC9	kDefinition	spring, fountain; wealth, money
+U+786E	kMandarin	què
+U+786E	kDefinition	sure, certain; real, true
+U+78BA	kMandarin	què
+U+78BA	kDefinition	sure, certain; real, true
+U+95D5	kMandarin	què
+U+95D5	kDefinition	watch tower; palace
+U+9D72	kMandarin	què
+U+9D72	kDefinition	magpie; Pica species (various)
+U+7FA4	kMandarin	qún
+U+7FA4	kDefinition	group, crowd, multitude, mob
+U+7136	kMandarin	rán
+U+7136	kDefinition	yes, certainly; pledge, promise
+U+9952	kMandarin	ráo
+U+9952	kDefinition	bountiful, abundant, plentiful
+U+71B1	kMandarin	rè
+U+71B1	kDefinition	hot; heat; fever; restless; zeal
+U+4EBA	kMandarin	rén
+U+4EBA	kDefinition	man; people; mankind; someone else
+U+4EC1	kMandarin	rén
+U+4EC1	kDefinition	humaneness, benevolence, kindness
+U+58EC	kMandarin	rén
+U+58EC	kDefinition	ninth heavenly stem
+U+4EFB	kMandarin	rèn
+U+4EFB	kDefinition	trust to, rely on, appoint; to bear, duty, office; allow
+U+65E5	kMandarin	rì
+U+65E5	kDefinition	sun; day; daytime
+U+67D4	kMandarin	róu
+U+67D4	kDefinition	soft; gentle, pliant
+U+5982	kMandarin	rú
+U+5982	kDefinition	if, supposing; as if; like, as
+U+4E73	kMandarin	rǔ
+U+4E73	kDefinition	breast, nipples; milk, suckle
+U+5165	kMandarin	rù
+U+5165	kDefinition	enter, come in(to), join
+U+77A4	kMandarin	rún
+U+77A4	kDefinition	to blink or twitch the eyes
+U+5F31	kMandarin	ruò
+U+5F31	kDefinition	weak; fragile, delicate
+U+82E5	kMandarin	ruò
+U+82E5	kDefinition	if, supposing, assuming; similar
+U+4E09	kMandarin	sān
+U+4E09	kDefinition	three
+U+6563	kMandarin	sàn
+U+6563	kDefinition	scatter, disperse, break up
+U+4E27	kMandarin	sàng
+U+4E27	kDefinition	mourning; mourn; funeral
+U+55AA	kMandarin	sàng
+U+55AA	kDefinition	mourning; mourn; funeral
+U+7A61	kMandarin	sè
+U+7A61	kDefinition	farm, harvest grain; stingy
+U+5C71	kMandarin	shān
+U+5C71	kDefinition	mountain, hill, peak
+U+5584	kMandarin	shàn
+U+5584	kDefinition	good, virtuous, charitable, kind
+U+50B7	kMandarin	shāng
+U+50B7	kDefinition	wound, injury; fall ill from
+U+4E0A	kMandarin	shàng
+U+4E0A	kDefinition	top; superior, highest; go up, send up
+U+88F3	kMandarin	shang
+U+88F3	kDefinition	clothes; skirt; beautiful
+U+5C11	kMandarin	shǎo
+U+5C11	kDefinition	few, less, inadequate
+U+820C	kMandarin	shé
+U+820C	kDefinition	tongue; clapper of bell; Kangxi radical 135
+U+86C7	kMandarin	shé
+U+86C7	kDefinition	snake
+U+820D	kMandarin	shě
+U+820D	kDefinition	house, dwelling; dwell, reside
+U+6D89	kMandarin	shè
+U+6D89	kDefinition	ford stream, wade across
+U+8EAB	kMandarin	shēn
+U+8EAB	kDefinition	body; trunk, hull; Kangxi radical 158
+U+795E	kMandarin	shén
+U+795E	kDefinition	spirit, god, supernatural being
+U+5347	kMandarin	shēng
+U+5347	kDefinition	arise, go up; hoist; advance; hexagram ䷭
+U+58F0	kMandarin	shēng
+U+58F0	kDefinition	sound, voice, noise; tone; music
+U+7272	kMandarin	shēng
+U+7272	kDefinition	sacrificial animal; animal
+U+751F	kMandarin	shēng
+U+751F	kDefinition	life, living, lifetime; birth
+U+8072	kMandarin	shēng
+U+8072	kDefinition	sound, voice, noise; tone; music
+U+5723	kMandarin	shèng
+U+5723	kDefinition	holy, sacred
+U+76DB	kMandarin	shèng
+U+76DB	kDefinition	abundant, flourishing; contain; fill
+U+8056	kMandarin	shèng
+U+8056	kDefinition	holy, sacred; sage
+U+5931	kMandarin	shī
+U+5931	kDefinition	lose; make mistake, neglect
+U+5E2B	kMandarin	shī
+U+5E2B	kDefinition	teacher, master, specialist; multitude, troops; hexagram ䷆
+U+65BD	kMandarin	shī
+U+65BD	kDefinition	grant, bestow; give; act; name
+U+6E7F	kMandarin	shī
+U+6E7F	kDefinition	wet, moist, humid, damp; illness
+U+6FD5	kMandarin	shī
+U+6FD5	kDefinition	wet, moist, humid, damp; an illness
+U+9CF2	kMandarin	shī
+U+9CF2	kDefinition	turtledove, cuckoo
+U+5BE6	kMandarin	shí
+U+5BE6	kDefinition	real, true, solid, honest
+U+65F6	kMandarin	shí
+U+65F6	kDefinition	time, season; era, age, period
+U+6642	kMandarin	shí
+U+6642	kDefinition	time, season; era, age, period
+U+77F3	kMandarin	shí
+U+77F3	kDefinition	stone, rock, mineral; Kangxi radical 112
+U+8B58	kMandarin	shí
+U+8B58	kDefinition	recognize, understand, know
+U+98DF	kMandarin	shí
+U+98DF	kDefinition	eat; meal; food; Kangxi radical 184
+U+4F7F	kMandarin	shǐ
+U+4F7F	kDefinition	cause, send on a mission, order; envoy, messenger, ambassador
+U+59CB	kMandarin	shǐ
+U+59CB	kDefinition	begin, start; then, only then
+U+77E2	kMandarin	shǐ
+U+77E2	kDefinition	arrow, dart; vow, swear
+U+4E16	kMandarin	shì
+U+4E16	kDefinition	generation; world; era
+U+4E8B	kMandarin	shì
+U+4E8B	kDefinition	affair, matter, business; to serve; accident, incident
+U+55DC	kMandarin	shì
+U+55DC	kDefinition	be fond of, have weakness for
+U+566C	kMandarin	shì
+U+566C	kDefinition	bite; gnaw; snap at
+U+58EB	kMandarin	shì
+U+58EB	kDefinition	scholar, gentleman; soldier
+U+5BA4	kMandarin	shì
+U+5BA4	kDefinition	room, home, house, chamber; 13th lunar mansion, determinative star α Pegasi (Markab)
+U+5E02	kMandarin	shì
+U+5E02	kDefinition	market, fair; city, town; trade
+U+5F0F	kMandarin	shì
+U+5F0F	kDefinition	style, system, formula, rule
+U+5F12	kMandarin	shì
+U+5F12	kDefinition	to kill one's superior
+U+662F	kMandarin	shì
+U+662F	kDefinition	indeed, yes, right; to be; demonstrative pronoun, this, that
+U+6C0F	kMandarin	shì
+U+6C0F	kDefinition	clan, family; mister
+U+87AB	kMandarin	shì
+U+87AB	kDefinition	poison; sting; poisonous insect
+U+8A66	kMandarin	shì
+U+8A66	kDefinition	test, try, experiment
+U+8BD5	kMandarin	shì
+U+8BD5	kDefinition	test, try, experiment
+U+624B	kMandarin	shǒu
+U+624B	kDefinition	hand
+U+9996	kMandarin	shǒu
+U+9996	kDefinition	head; first; leader, chief; a poem; Kangxi radical 185
+U+53D7	kMandarin	shòu
+U+53D7	kDefinition	receive, accept, get; bear, stand
+U+53D4	kMandarin	shū
+U+53D4	kDefinition	father's younger brother
+U+6A1E	kMandarin	shū
+U+6A1E	kDefinition	door hinge; pivot; center of power
+U+6DD1	kMandarin	shū
+U+6DD1	kDefinition	good, pure, virtuous, charming
+U+8F38	kMandarin	shū
+U+8F38	kDefinition	transport, carry, haul
+U+5C6C	kMandarin	shǔ
+U+5C6C	kDefinition	class, category, type; to belong to
+U+9ECD	kMandarin	shǔ
+U+9ECD	kDefinition	glutinous millet; Kangxi radical 202
+U+5EB6	kMandarin	shù
+U+5EB6	kDefinition	numerous, various; multitude
+U+620D	kMandarin	shù
+U+620D	kDefinition	defend borders, guard frontiers
+U+6578	kMandarin	shù
+U+6578	kDefinition	number; several; count; fate
+U+8AB0	kMandarin	shuí
+U+8AB0	kDefinition	who? whom? whose? anyone?
+U+6C34	kMandarin	shuǐ
+U+6C34	kDefinition	water, liquid, lotion, juice
+U+821C	kMandarin	shùn
+U+821C	kDefinition	legendary ruler, last of the Five Emperors
+U+9806	kMandarin	shùn
+U+9806	kDefinition	obey, submit to, go along with
+U+8AAA	kMandarin	shuō
+U+8AAA	kDefinition	speak, say, talk; scold, upbraid
+U+601D	kMandarin	sī
+U+601D	kDefinition	think, consider, ponder; final particle
+U+65AF	kMandarin	sī
+U+65AF	kDefinition	this, thus, such; to lop off; emphatic particle
+U+79C1	kMandarin	sī
+U+79C1	kDefinition	private, personal; secret
+U+6B7B	kMandarin	sǐ
+U+6B7B	kDefinition	die; dead; death
+U+56DB	kMandarin	sì
+U+56DB	kDefinition	four
+U+5DF3	kMandarin	sì
+U+5DF3	kDefinition	sixth earthly branch
+U+677E	kMandarin	sōng
+U+677E	kDefinition	pine tree; fir tree
+U+8A1F	kMandarin	sòng
+U+8A1F	kDefinition	accuse; argue, dispute; litigate; hexagram ䷅
+U+9001	kMandarin	sòng
+U+9001	kDefinition	see off, send off; dispatch, give
+U+4FD7	kMandarin	sú
+U+4FD7	kDefinition	social customs; vulgar, unrefined
+U+5BBF	kMandarin	sù
+U+5BBF	kDefinition	stop, rest, lodge, stay overnight; constellation
+U+7D20	kMandarin	sù
+U+7D20	kDefinition	white (silk); plain; vegetarian; formerly; normally
+U+901F	kMandarin	sù
+U+901F	kDefinition	quick, prompt, speedy
+U+7B6D	kMandarin	suàn
+U+7B6D	kDefinition	an ancient device for working with numbers; count, calculate, figure
+U+867D	kMandarin	suī
+U+867D	kDefinition	although, even if
+U+96D6	kMandarin	suī
+U+96D6	kDefinition	although, even if
+U+96A8	kMandarin	suí
+U+96A8	kDefinition	follow, listen to, submit; to accompany; subsequently, then; hexagram ䷐
+U+5B6B	kMandarin	sūn
+U+5B6B	kDefinition	grandchild, descendent; surname
+U+640D	kMandarin	sǔn
+U+640D	kDefinition	diminish; impair; injure; hexagram ䷨
+U+6240	kMandarin	suǒ
+U+6240	kDefinition	place, location; numerary adjunct
+U+7D22	kMandarin	suǒ
+U+7D22	kDefinition	large rope, cable; rules, laws; to demand, to exact; to search, inquire; isolated
+U+80CE	kMandarin	tāi
+U+80CE	kDefinition	unborn child, embryo, fetus
+U+592A	kMandarin	tài
+U+592A	kDefinition	very, too, much; big; extreme
+U+6CF0	kMandarin	tài
+U+6CF0	kDefinition	great, exalted, superior; big; hexagram ䷊
+U+5606	kMandarin	tàn
+U+5606	kDefinition	sigh, admire
+U+6B4E	kMandarin	tàn
+U+6B4E	kDefinition	sigh, admire
+U+5802	kMandarin	táng
+U+5802	kDefinition	hall; government office
+U+68E0	kMandarin	táng
+U+68E0	kDefinition	crab apple tree; wild plums
+U+557C	kMandarin	tí
+U+557C	kDefinition	weep, whimper; howl, twitter
+U+4F53	kMandarin	tǐ
+U+4F53	kDefinition	body; group, class, body, unit; inferior
+U+9AD4	kMandarin	tǐ
+U+9AD4	kDefinition	body; group, class, body, unit
+U+60D5	kMandarin	tì
+U+60D5	kDefinition	be cautious, careful, alert
+U+5929	kMandarin	tiān
+U+5929	kDefinition	sky, heaven; god, celestial
+U+7530	kMandarin	tián
+U+7530	kDefinition	field, arable land, cultivated
+U+5EAD	kMandarin	tíng
+U+5EAD	kDefinition	courtyard; spacious hall or yard
+U+901A	kMandarin	tōng
+U+901A	kDefinition	pass through; common; communicate
+U+540C	kMandarin	tóng
+U+540C	kDefinition	same, similar; together with
+U+7D71	kMandarin	tǒng
+U+7D71	kDefinition	govern, command, control; unite
+U+7EDF	kMandarin	tǒng
+U+7EDF	kDefinition	govern, command, control; unite
+U+982D	kMandarin	tóu
+U+982D	kDefinition	head; top; chief, first; boss
+U+5F92	kMandarin	tú
+U+5F92	kDefinition	disciple, follower; go on foot
+U+571F	kMandarin	tǔ
+U+571F	kDefinition	soil, earth; items made of earth
+U+5F56	kMandarin	tuàn
+U+5F56	kDefinition	a hog; a hedgehog; a porcupine
+U+96A4	kMandarin	tuí
+U+96A4	kDefinition	to fall in ruins; to collapse
+U+9000	kMandarin	tuì
+U+9000	kDefinition	step back, retreat, withdraw
+U+3E60	kMandarin	tún
+U+3E60	kDefinition	(same as 豚) a small big; a sucking pig, to shuffle along without lifting the feet
+U+5C6F	kMandarin	tún
+U+5C6F	kDefinition	village, hamlet; camp; station; hexagram ䷂
+U+812B	kMandarin	tuō
+U+812B	kDefinition	take off, peel off, strip
+U+5916	kMandarin	wài
+U+5916	kDefinition	out, outside, external; foreign
+U+4E38	kMandarin	wán
+U+4E38	kDefinition	small round object; pellet, pill
+U+4E07	kMandarin	wàn
+U+4E07	kDefinition	ten thousand; innumerable
+U+842C	kMandarin	wàn
+U+842C	kDefinition	ten thousand; innumerable
+U+4EA1	kMandarin	wáng
+U+4EA1	kDefinition	death, destroyed; lose, perish
+U+738B	kMandarin	wáng
+U+738B	kDefinition	king, ruler; royal; surname
+U+5984	kMandarin	wàng
+U+5984	kDefinition	absurd, foolish, reckless; false
+U+671B	kMandarin	wàng
+U+671B	kDefinition	to look at, look forward; to hope, expect
+U+5371	kMandarin	wēi
+U+5371	kDefinition	dangerous, precarious; high; 12th lunar mansion, determinative star α Aquarii (Sadalmelik)
+U+5FAE	kMandarin	wēi
+U+5FAE	kDefinition	small, prefix micro-, trifling
+U+552F	kMandarin	wéi
+U+552F	kDefinition	only; yes
+U+8FDD	kMandarin	wéi
+U+8FDD	kDefinition	disobey, violate, defy; be apart from
+U+9055	kMandarin	wéi
+U+9055	kDefinition	disobey, violate, defy; be apart from
+U+4E3A	kMandarin	wèi
+U+4E3A	kDefinition	do, handle, govern, act; be
+U+4F4D	kMandarin	wèi
+U+4F4D	kDefinition	throne; position, post; rank, status; seat
+U+672A	kMandarin	wèi
+U+672A	kDefinition	not yet; eighth earthly branch
+U+70BA	kMandarin	wèi
+U+70BA	kDefinition	do, handle, govern, act; be
+U+875F	kMandarin	wèi
+U+875F	kDefinition	hedgehog
+U+885B	kMandarin	wèi
+U+885B	kDefinition	guard, protect, defend
+U+8B02	kMandarin	wèi
+U+8B02	kDefinition	say, tell; call, name; be called
+U+8C13	kMandarin	wèi
+U+8C13	kDefinition	say, tell; call, name; be called
+U+8F4A	kMandarin	wèi
+U+8F4A	kDefinition	axle-tip
+U+6587	kMandarin	wén
+U+6587	kDefinition	literature, culture, writing
+U+554F	kMandarin	wèn
+U+554F	kDefinition	ask (about), inquire after
+U+95EE	kMandarin	wèn
+U+95EE	kDefinition	ask about, inquire after
+U+8E12	kMandarin	wō
+U+8E12	kDefinition	to slip and sprain a limb
+U+6211	kMandarin	wǒ
+U+6211	kDefinition	our, us, i, me, my, we
+U+63E1	kMandarin	wò
+U+63E1	kDefinition	grasp, hold fast, take by hand
+U+81E5	kMandarin	wò
+U+81E5	kDefinition	lie down; crouch
+U+543E	kMandarin	wú
+U+543E	kDefinition	i, my, our; resist, impede
+U+65E0	kMandarin	wú
+U+65E0	kDefinition	negative, no, not; Kangxi radical 71
+U+7121	kMandarin	wú
+U+7121	kDefinition	negative, no, not; lack, have no
+U+4E94	kMandarin	wǔ
+U+4E94	kDefinition	five; surname
+U+6B66	kMandarin	wǔ
+U+6B66	kDefinition	military; martial, warlike
+U+52D9	kMandarin	wù
+U+52D9	kDefinition	affairs, business; must, should
+U+52FF	kMandarin	wù
+U+52FF	kDefinition	must not, do not; without, never
+U+620A	kMandarin	wù
+U+620A	kDefinition	5th heavenly stem
+U+7269	kMandarin	wù
+U+7269	kDefinition	thing, substance, creature
+U+8AA4	kMandarin	wù
+U+8AA4	kDefinition	err, make mistake; interfere
+U+5915	kMandarin	xī
+U+5915	kDefinition	evening, night, dusk; slanted
+U+606F	kMandarin	xī
+U+606F	kDefinition	rest, put stop to, end, cease
+U+72A7	kMandarin	xī
+U+72A7	kDefinition	sacrifice, give up; sacrificial
+U+897F	kMandarin	xī
+U+897F	kDefinition	west(ern); westward; occident; Kangxi radical 146
+U+559C	kMandarin	xǐ
+U+559C	kDefinition	like, love, enjoy; joyful thing
+U+9699	kMandarin	xì
+U+9699	kDefinition	crack, split, fissure; grudge
+U+4E0B	kMandarin	xià
+U+4E0B	kDefinition	under, underneath, below; down; inferior; bring down
+U+590F	kMandarin	xià
+U+590F	kDefinition	summer; great, grand, big
+U+5148	kMandarin	xiān
+U+5148	kDefinition	first, former, previous
+U+9BAE	kMandarin	xiān
+U+9BAE	kDefinition	fresh, new, delicious; rare, few
+U+54B8	kMandarin	xián
+U+54B8	kDefinition	together; all, completely; united; hexagram ䷞
+U+5ACC	kMandarin	xián
+U+5ACC	kDefinition	hate, detest; suspect; criticize
+U+7D43	kMandarin	xián
+U+7D43	kDefinition	string on musical instrument
+U+8CE2	kMandarin	xián
+U+8CE2	kDefinition	virtuous, worthy, good; able
+U+8D24	kMandarin	xián
+U+8D24	kDefinition	virtuous, worthy, good; able
+U+9592	kMandarin	xián
+U+9592	kDefinition	leisure; idle; peaceful, tranquil, calm
+U+95F2	kMandarin	xián
+U+95F2	kDefinition	fence, guard; defend; idle time
+U+96AA	kMandarin	xiǎn
+U+96AA	kDefinition	narrow pass, strategic point, dangerous
+U+76F8	kMandarin	xiāng
+U+76F8	kDefinition	mutual, reciprocal, each other
+U+9109	kMandarin	xiāng
+U+9109	kDefinition	country; rural; village
+U+7965	kMandarin	xiáng
+U+7965	kDefinition	good luck, good omen; happiness
+U+4EAB	kMandarin	xiǎng
+U+4EAB	kDefinition	enjoy
+U+8C61	kMandarin	xiàng
+U+8C61	kDefinition	elephant; ivory; figure, image
+U+92B7	kMandarin	xiāo
+U+92B7	kDefinition	melt, fuse; market, sell; to pass time, finish, cancel
+U+5C0F	kMandarin	xiǎo
+U+5C0F	kDefinition	small, tiny, insignificant
+U+8096	kMandarin	xiào
+U+8096	kDefinition	look like, resemble, be like
+U+5055	kMandarin	xié
+U+5055	kDefinition	together; be in order
+U+90AA	kMandarin	xié
+U+90AA	kDefinition	wrong, evil, depraved, vicious, perverse, heterodox
+U+61C8	kMandarin	xiè
+U+61C8	kDefinition	idle, relaxed, remiss
+U+5FC3	kMandarin	xīn
+U+5FC3	kDefinition	heart; mind, intelligence; soul; 5th lunar mansion, determinative star α Scorpii (Antares)
+U+4FE1	kMandarin	xìn
+U+4FE1	kDefinition	trust, believe; letter
+U+661F	kMandarin	xīng
+U+661F	kDefinition	a star, planet; any point of light; 25th lunar mansion, determinative star α Hydrae (Alphard)
+U+5F62	kMandarin	xíng
+U+5F62	kDefinition	form, shape, appearance
+U+884C	kMandarin	xíng
+U+884C	kDefinition	go; walk; move, travel; circulate; Kangxi radical 144
+U+6027	kMandarin	xìng
+U+6027	kDefinition	nature, character, sex
+U+8208	kMandarin	xìng
+U+8208	kDefinition	thrive, prosper, flourish
+U+5144	kMandarin	xiōng
+U+5144	kDefinition	elder brother
+U+51F6	kMandarin	xiōng
+U+51F6	kDefinition	culprit; murder; bad, sad
+U+96C4	kMandarin	xióng
+U+96C4	kDefinition	male of species; hero; manly
+U+4F11	kMandarin	xiū
+U+4F11	kDefinition	rest, stop; retire; do not!
+U+4FEE	kMandarin	xiū
+U+4FEE	kDefinition	study; repair; cultivate
+U+8129	kMandarin	xiū
+U+8129	kDefinition	dried meat (used as teachers payment in ancient times)
+U+589F	kMandarin	xū
+U+589F	kDefinition	high mound; hilly countryside; wasteland
+U+620C	kMandarin	xū
+U+620C	kDefinition	eleventh earthly branch
+U+865B	kMandarin	xū
+U+865B	kDefinition	false, worthless; empty, hollow; 11th lunar mansion, determinative star β Aquarii (Sadalsuud)
+U+9700	kMandarin	xū
+U+9700	kDefinition	need, require, must; hexagram ䷄
+U+5E8F	kMandarin	xù
+U+5E8F	kDefinition	series, serial order, sequence
+U+6558	kMandarin	xù
+U+6558	kDefinition	express, state, relate, narrate
+U+61F8	kMandarin	xuán
+U+61F8	kDefinition	hang, suspend, hoist; be hung
+U+7384	kMandarin	xuán
+U+7384	kDefinition	deep, profound, abstruse; Kangxi radical 95
+U+5B66	kMandarin	xué
+U+5B66	kDefinition	learning, knowledge; school
+U+5B78	kMandarin	xué
+U+5B78	kDefinition	learning, knowledge; school
+U+7A74	kMandarin	xué
+U+7A74	kDefinition	cave, den, hole; Kangxi radical 116
+U+5DFD	kMandarin	xùn
+U+5DFD	kDefinition	south-east; mild, modest, obedient; trigram ☴; hexagram ䷸
+U+7109	kMandarin	yān
+U+7109	kDefinition	thereupon, then; how? why? where?
+U+5EF6	kMandarin	yán
+U+5EF6	kDefinition	delay, postpone, defer
+U+708E	kMandarin	yán
+U+708E	kDefinition	flame, blaze; hot
+U+8A00	kMandarin	yán
+U+8A00	kDefinition	words, speech; speak, say; Kangxi radical 149
+U+884D	kMandarin	yǎn
+U+884D	kDefinition	overflow, spill over, spread out
+U+71D5	kMandarin	yàn
+U+71D5	kDefinition	swallow (bird); comfort, enjoy
+U+6B83	kMandarin	yāng
+U+6B83	kDefinition	misfortune, disaster, calamity
+U+7F8A	kMandarin	yáng
+U+7F8A	kDefinition	sheep, goat; Kangxi radical 123
+U+9633	kMandarin	yáng
+U+9633	kDefinition	'male' principle; light; sun
+U+967D	kMandarin	yáng
+U+967D	kDefinition	the active, male principle in Chinese philosophy (yang); light; sun
+U+4EF0	kMandarin	yǎng
+U+4EF0	kDefinition	raise the head to look; look up to, rely on, admire
+U+723B	kMandarin	yáo
+U+723B	kDefinition	diagrams for divination
+U+4E5F	kMandarin	yě
+U+4E5F	kDefinition	also; classical final particle of strong affirmation or identity
+U+91CE	kMandarin	yě
+U+91CE	kDefinition	open country, field; wilderness
+U+4E1A	kMandarin	yè
+U+4E1A	kDefinition	profession, business; GB radical 111
+U+591C	kMandarin	yè
+U+591C	kDefinition	night, dark; in night; by night
+U+696D	kMandarin	yè
+U+696D	kDefinition	profession, business, trade
+U+8B01	kMandarin	yè
+U+8B01	kDefinition	visit, pay respects to
+U+4E00	kMandarin	yī
+U+4E00	kDefinition	one; a, an; alone
+U+4F9D	kMandarin	yī
+U+4F9D	kDefinition	rely on, be set in; consent, obey a wish
+U+8863	kMandarin	yī
+U+8863	kDefinition	clothes, clothing; cover, skin; Kangxi radical 145
+U+5937	kMandarin	yí
+U+5937	kDefinition	ancient barbarian tribes
+U+5B9C	kMandarin	yí
+U+5B9C	kDefinition	suitable, right, fitting, proper
+U+7591	kMandarin	yí
+U+7591	kDefinition	doubt, question, suspect
+U+79FB	kMandarin	yí
+U+79FB	kDefinition	change place, shift; move about
+U+907A	kMandarin	yí
+U+907A	kDefinition	lose; articles lost; omit
+U+9824	kMandarin	yí
+U+9824	kDefinition	cheeks; jaw; chin; rear; to nourish; hexagram ䷚
+U+4EE5	kMandarin	yǐ
+U+4EE5	kDefinition	by means of; thereby, therefore; consider as; in order to
+U+5DF2	kMandarin	yǐ
+U+5DF2	kDefinition	already; finished; stop
+U+77E3	kMandarin	yǐ
+U+77E3	kDefinition	particle of completed action
+U+8E26	kMandarin	yǐ
+U+8E26	kDefinition	the shin; to pierce; to touch
+U+4E49	kMandarin	yì
+U+4E49	kDefinition	right conduct, righteousness
+U+4EA6	kMandarin	yì
+U+4EA6	kDefinition	also, too; likewise
+U+5F79	kMandarin	yì
+U+5F79	kDefinition	service; a servant, laborer; to serve
+U+610F	kMandarin	yì
+U+610F	kDefinition	thought, idea, opinion; think
+U+61B6	kMandarin	yì
+U+61B6	kDefinition	remember, reflect upon; memory
+U+6613	kMandarin	yì
+U+6613	kDefinition	change; easy
+U+76CA	kMandarin	yì
+U+76CA	kDefinition	profit, benefit; advantage; hexagram ䷩
+U+7FA9	kMandarin	yì
+U+7FA9	kDefinition	right conduct, righteousness
+U+8A63	kMandarin	yì
+U+8A63	kDefinition	reach; achievement, accomplishment
+U+8B6F	kMandarin	yì
+U+8B6F	kDefinition	translate; decode; encode
+U+8B70	kMandarin	yì
+U+8B70	kDefinition	consult, talk over, discuss
+U+93B0	kMandarin	yì
+U+93B0	kDefinition	ancient of weight for gold, equal to 20 or 24 taels
+U+9DC1	kMandarin	yì
+U+9DC1	kDefinition	fishhawk; bow or prow
+U+56E0	kMandarin	yīn
+U+56E0	kDefinition	cause, reason; by; because (of)
+U+7616	kMandarin	yīn
+U+7616	kDefinition	dumb, mute, unable speak
+U+9670	kMandarin	yīn
+U+9670	kDefinition	the passive, female principle in Chinese philosophy (yin); dark; secret
+U+9690	kMandarin	yǐn
+U+9690	kDefinition	hide, conceal; hidden, secret
+U+96B1	kMandarin	yǐn
+U+96B1	kDefinition	hide, conceal; hidden, secret
+U+98F2	kMandarin	yǐn
+U+98F2	kDefinition	drink; swallow; kind of drink
+U+5E94	kMandarin	yīng
+U+5E94	kDefinition	should, ought to, must
+U+61C9	kMandarin	yīng
+U+61C9	kDefinition	should, ought to, must
+U+76C8	kMandarin	yíng
+U+76C8	kDefinition	fill; full, overflowing; surplus
+U+5EB8	kMandarin	yōng
+U+5EB8	kDefinition	usual, common, ordinary, mediocre
+U+64C1	kMandarin	yōng
+U+64C1	kDefinition	embrace, hug, squeeze; crowd
+U+6C38	kMandarin	yǒng
+U+6C38	kDefinition	long, perpetual, eternal, forever
+U+6E67	kMandarin	yǒng
+U+6E67	kDefinition	well up; gush forth; rise
+U+7528	kMandarin	yòng
+U+7528	kDefinition	use, employ, apply, operate; use
+U+5E7D	kMandarin	yōu
+U+5E7D	kDefinition	quiet, secluded, tranquil; dark
+U+5FE7	kMandarin	yōu
+U+5FE7	kDefinition	sad, grieved; grief, melancholy
+U+6182	kMandarin	yōu
+U+6182	kDefinition	sad, grieved; grief, melancholy
+U+5C24	kMandarin	yóu
+U+5C24	kDefinition	especially, particularly
+U+7336	kMandarin	yóu
+U+7336	kDefinition	like, similar to, just like, as
+U+904A	kMandarin	yóu
+U+904A	kDefinition	wander, roam, travel
+U+6709	kMandarin	yǒu
+U+6709	kDefinition	have, own, possess; exist
+U+53F3	kMandarin	yòu
+U+53F3	kDefinition	right; west; right-wing
+U+7950	kMandarin	yòu
+U+7950	kDefinition	divine intervention, protection
+U+4E8E	kMandarin	yú
+U+4E8E	kDefinition	in, on, at; go to; surname
+U+65BC	kMandarin	yú
+U+65BC	kDefinition	in, at, on; interjection alas!
+U+8E30	kMandarin	yú
+U+8E30	kDefinition	exceed, transgress; cross over
+U+8F3F	kMandarin	yú
+U+8F3F	kDefinition	cart, palanquin; public opinion
+U+9685	kMandarin	yú
+U+9685	kDefinition	corner, nook, remote place
+U+9918	kMandarin	yú
+U+9918	kDefinition	surplus, excess, remainder
+U+4E0E	kMandarin	yǔ
+U+4E0E	kDefinition	and; with; to; for; give, grant
+U+5EBE	kMandarin	yǔ
+U+5EBE	kDefinition	granary; storehouse
+U+79B9	kMandarin	yǔ
+U+79B9	kDefinition	legendary hsia dynasty founder
+U+8207	kMandarin	yǔ
+U+8207	kDefinition	and; with; to; for; give, grant
+U+8A9E	kMandarin	yǔ
+U+8A9E	kDefinition	language, words; saying, expression
+U+96E8	kMandarin	yǔ
+U+96E8	kDefinition	rain; rainy; Kangxi radical 173
+U+5FA1	kMandarin	yù
+U+5FA1	kDefinition	drive, ride; chariot; manage
+U+6108	kMandarin	yù
+U+6108	kDefinition	more and more, even more
+U+6B32	kMandarin	yù
+U+6B32	kDefinition	desire, want, long for; intend
+U+8C6B	kMandarin	yù
+U+8C6B	kDefinition	relaxed, comfortable, at ease; hexagram ䷏
+U+9047	kMandarin	yù
+U+9047	kDefinition	meet, come across, encounter
+U+9810	kMandarin	yù
+U+9810	kDefinition	prepare, arrange; in advance
+U+6DF5	kMandarin	yuān
+U+6DF5	kDefinition	gulf, abyss, deep
+U+6E0A	kMandarin	yuān
+U+6E0A	kDefinition	surge up, bubble up, gush forth
+U+5143	kMandarin	yuán
+U+5143	kDefinition	first; dollar; origin; head
+U+57A3	kMandarin	yuán
+U+57A3	kDefinition	low wall
+U+6E90	kMandarin	yuán
+U+6E90	kDefinition	spring; source, head; surname
+U+9060	kMandarin	yuǎn
+U+9060	kDefinition	distant, remote, far; profound
+U+6028	kMandarin	yuàn
+U+6028	kDefinition	hatred, enmity, resentment
+U+9858	kMandarin	yuàn
+U+9858	kDefinition	desire, want; wish; ambition
+U+66F0	kMandarin	yuē
+U+66F0	kDefinition	say; Kangxi radical 73
+U+5216	kMandarin	yuè
+U+5216	kDefinition	cutting off feet as form of punishment
+U+5CB3	kMandarin	yuè
+U+5CB3	kDefinition	mountain peak; surname
+U+6708	kMandarin	yuè
+U+6708	kDefinition	moon; month; Kangxi radical 74
+U+8DC3	kMandarin	yuè
+U+8DC3	kDefinition	skip, jump, frolic
+U+8E8D	kMandarin	yuè
+U+8E8D	kDefinition	skip, jump, frolic
+U+9E11	kMandarin	yuè
+U+9E11	kDefinition	a legendary waterfowl; a young phoenix
+U+4E91	kMandarin	yún
+U+4E91	kDefinition	say, speak; clouds
+U+96F2	kMandarin	yún
+U+96F2	kDefinition	clouds; Yunnan province
+U+904B	kMandarin	yùn
+U+904B	kDefinition	luck, fortune; ship, transport
+U+531D	kMandarin	zā
+U+531D	kDefinition	full circle; encircle
+U+54C9	kMandarin	zāi
+U+54C9	kDefinition	final exclamatory particle
+U+707D	kMandarin	zāi
+U+707D	kDefinition	calamity, disaster, catastrophe
+U+707E	kMandarin	zāi
+U+707E	kDefinition	calamity, disaster, catastrophe
+U+5728	kMandarin	zài
+U+5728	kDefinition	be at, in, on; consist in, rest
+U+8F09	kMandarin	zài
+U+8F09	kDefinition	load; carry; transport, convey
+U+947F	kMandarin	záo
+U+947F	kDefinition	chisel; bore, pierce
+U+65E9	kMandarin	zǎo
+U+65E9	kDefinition	early; soon; morning
+U+71E5	kMandarin	zào
+U+71E5	kDefinition	dry, parched, arid; quick-tempered
+U+9020	kMandarin	zào
+U+9020	kDefinition	construct, build, make, begin; prepare
+U+5219	kMandarin	zé
+U+5219	kDefinition	rule, law, regulation; grades
+U+5247	kMandarin	zé
+U+5247	kDefinition	rule, law, regulation; grades
+U+8CCA	kMandarin	zéi
+U+8CCA	kDefinition	thief, traitor
+U+618E	kMandarin	zēng
+U+618E	kDefinition	hate, detest, abhor; hatred
+U+6230	kMandarin	zhàn
+U+6230	kDefinition	war, fighting, battle
+U+5F35	kMandarin	zhāng
+U+5F35	kDefinition	stretch, extend, expand; sheet; 26th lunar mansion, determinative star υ¹ Hydrae
+U+5F70	kMandarin	zhāng
+U+5F70	kDefinition	clear, manifest, obvious
+U+7AE0	kMandarin	zhāng
+U+7AE0	kDefinition	composition; chapter, section
+U+9577	kMandarin	zhǎng
+U+9577	kDefinition	long; length; excel in; leader; Kangxi radical 168
+U+957F	kMandarin	zhǎng
+U+957F	kDefinition	long; length; excel in; leader
+U+62DB	kMandarin	zhāo
+U+62DB	kDefinition	beckon, summon; recruit, levy
+U+6298	kMandarin	zhé
+U+6298	kDefinition	break off, snap; bend
+U+8005	kMandarin	zhě
+U+8005	kDefinition	that which; he who; those who
+U+8C9E	kMandarin	zhēn
+U+8C9E	kDefinition	virtuous, chaste, pure; loyal
+U+8D1E	kMandarin	zhēn
+U+8D1E	kDefinition	virtuous, chaste, pure; loyal
+U+93AE	kMandarin	zhèn
+U+93AE	kDefinition	town, market place; suppress
+U+9707	kMandarin	zhèn
+U+9707	kDefinition	shake, quake, tremor; excite; trigram ☳; hexagram ䷲
+U+722D	kMandarin	zhēng
+U+722D	kDefinition	to dispute, fight, contend, strive
+U+653F	kMandarin	zhèng
+U+653F	kDefinition	government, political affairs
+U+6B63	kMandarin	zhèng
+U+6B63	kDefinition	right, proper, correct
+U+4E4B	kMandarin	zhī
+U+4E4B	kDefinition	marks preceding phrase as modifier of following phrase; it, him her, them; go to
+U+77E5	kMandarin	zhī
+U+77E5	kDefinition	know, perceive, comprehend
+U+829D	kMandarin	zhī
+U+829D	kDefinition	sesame; a purplish or brown mushroom thought to have miraculous powers; 'a divine and felicitous plant' (Karlgren)
+U+76F4	kMandarin	zhí
+U+76F4	kDefinition	straight, erect, vertical
+U+8DD6	kMandarin	zhí
+U+8DD6	kDefinition	sole (of the foot)
+U+5FB5	kMandarin	zhǐ
+U+5FB5	kDefinition	summon, recruit; musical note
+U+5236	kMandarin	zhì
+U+5236	kDefinition	system; establish; overpower
+U+5FD7	kMandarin	zhì
+U+5FD7	kDefinition	purpose, will, determination; annals
+U+6CBB	kMandarin	zhì
+U+6CBB	kDefinition	govern, regulate, administer
+U+81F3	kMandarin	zhì
+U+81F3	kDefinition	reach, arrive; extremely, very; Kangxi radical 133
+U+8E93	kMandarin	zhì
+U+8E93	kDefinition	stumble, totter; fail, be frustrated
+U+965F	kMandarin	zhì
+U+965F	kDefinition	climb, scale, ascend; proceed
+U+9DD9	kMandarin	zhì
+U+9DD9	kDefinition	hawk, vulture
+U+4E2D	kMandarin	zhōng
+U+4E2D	kDefinition	central; center, middle; in the midst of; hit (target); attain
+U+5FE0	kMandarin	zhōng
+U+5FE0	kDefinition	loyalty, devotion, fidelity
+U+7D42	kMandarin	zhōng
+U+7D42	kDefinition	end; finally, in the end
+U+7EC8	kMandarin	zhōng
+U+7EC8	kDefinition	end; finally, in the end
+U+4EF2	kMandarin	zhòng
+U+4EF2	kDefinition	middle brother; go between, mediator; surname
+U+773E	kMandarin	zhòng
+U+773E	kDefinition	masses, people, multitude, crowd
+U+91CD	kMandarin	zhòng
+U+91CD	kDefinition	heavy, weighty; double
+U+5468	kMandarin	zhōu
+U+5468	kDefinition	Zhou dynasty; circumference
+U+8EF8	kMandarin	zhóu
+U+8EF8	kDefinition	axle, axletree; pivot; axis
+U+8AF8	kMandarin	zhū
+U+8AF8	kDefinition	several, various
+U+7AF9	kMandarin	zhú
+U+7AF9	kDefinition	bamboo; flute; Kangxi radical 118
+U+9010	kMandarin	zhú
+U+9010	kDefinition	chase, expel; one by one
+U+4E3B	kMandarin	zhǔ
+U+4E3B	kDefinition	master, chief owner; host; lord
+U+52A9	kMandarin	zhù
+U+52A9	kDefinition	help, aid, assist
+U+6CE8	kMandarin	zhù
+U+6CE8	kDefinition	concentrate, focus, direct
+U+7D35	kMandarin	zhù
+U+7D35	kDefinition	ramie; sack cloth
+U+5C08	kMandarin	zhuān
+U+5C08	kDefinition	monopolize, take sole possession
+U+58EF	kMandarin	zhuàng
+U+58EF	kDefinition	big, large; robust; name of tribe
+U+8CC7	kMandarin	zī
+U+8CC7	kDefinition	property; wealth; capital
+U+8D44	kMandarin	zī
+U+8D44	kDefinition	property; wealth; capital
+U+5B50	kMandarin	zǐ
+U+5B50	kDefinition	offspring, child; fruit, seed of; first earthly branch
+U+8A3E	kMandarin	zǐ
+U+8A3E	kDefinition	bad-mouth; criticize; defects
+U+81EA	kMandarin	zì
+U+81EA	kDefinition	self, private, personal; from; Kangxi radical 132
+U+5B97	kMandarin	zōng
+U+5B97	kDefinition	lineage, ancestry; ancestor, clan
+U+8D70	kMandarin	zǒu
+U+8D70	kDefinition	walk, go on foot; run; leave; Kangxi radical 156
+U+8DB3	kMandarin	zú
+U+8DB3	kDefinition	foot; attain, satisfy, enough; Kangxi radical 156
+U+7956	kMandarin	zǔ
+U+7956	kDefinition	ancestor, forefather; grandfather
+U+7F6A	kMandarin	zuì
+U+7F6A	kDefinition	crime, sin, vice; evil; hardship
+U+5C0A	kMandarin	zūn
+U+5C0A	kDefinition	respect, revere, venerate; honor
+U+5642	kMandarin	zǔn
+U+5642	kDefinition	meet
+U+4F5C	kMandarin	zuò
+U+4F5C	kDefinition	make; work; compose, write; act, perform
+U+5750	kMandarin	zuò
+U+5750	kDefinition	sit; seat; ride, travel by
+U+459D	kMandarin	chóng
+U+4E01	kMandarin	dīng
+U+4E03	kMandarin	qī
+U+4E11	kMandarin	chǒu
+U+4E18	kMandarin	qiū
+U+4E19	kMandarin	bǐng
+U+4E25	kMandarin	yán
+U+4E3D	kMandarin	lì
+U+4E56	kMandarin	guāi
+U+4E59	kMandarin	yǐ
+U+4E71	kMandarin	luàn
+U+4E92	kMandarin	hù
+U+4EAC	kMandarin	jīng
+U+4EB6	kMandarin	dǎn
+U+4EC6	kMandarin	pū
+U+4ECA	kMandarin	jīn
+U+4ECB	kMandarin	jiè
+U+4ED5	kMandarin	shì
+U+4ED6	kMandarin	tā
+U+4ED9	kMandarin	xiān
+U+4EE3	kMandarin	dài
+U+4EE4	kMandarin	lìng
+U+4F01	kMandarin	qǐ
+U+4F0A	kMandarin	yī
+U+4F17	kMandarin	zhòng
+U+4F2F	kMandarin	bó
+U+4F38	kMandarin	shēn
+U+4F3C	kMandarin	shì
+U+4F4F	kMandarin	zhù
+U+4F50	kMandarin	zuǒ
+U+4F51	kMandarin	yòu
+U+4F69	kMandarin	pèi
+U+4F6F	kMandarin	yáng
+U+4F75	kMandarin	bìng
+U+4F9B	kMandarin	gōng
+U+4FAE	kMandarin	wǔ
+U+4FB5	kMandarin	qīn
+U+4FBF	kMandarin	biàn
+U+4FCA	kMandarin	jùn
+U+4FDF	kMandarin	qí
+U+4FED	kMandarin	jiǎn
+U+500D	kMandarin	bèi
+U+501A	kMandarin	yǐ
+U+501F	kMandarin	jiè
+U+5021	kMandarin	chàng
+U+502B	kMandarin	lún
+U+503E	kMandarin	qīng
+U+5074	kMandarin	cè
+U+508D	kMandarin	bàng
+U+50AB	kMandarin	lěi
+U+50B2	kMandarin	ào
+U+50D1	kMandarin	qiáo
+U+50F5	kMandarin	jiāng
+U+5100	kMandarin	yí
+U+5104	kMandarin	yì
+U+5109	kMandarin	jiǎn
+U+512A	kMandarin	yōu
+U+5141	kMandarin	yǔn
+U+5146	kMandarin	zhào
+U+5152	kMandarin	ér
+U+5154	kMandarin	tù
+U+5171	kMandarin	gòng
+U+5177	kMandarin	jù
+U+5178	kMandarin	diǎn
+U+5179	kMandarin	zī
+U+5185	kMandarin	nèi
+U+518A	kMandarin	cè
+U+518D	kMandarin	zài
+U+51A0	kMandarin	guān
+U+51A4	kMandarin	yuān
+U+51CC	kMandarin	líng
+U+51DD	kMandarin	níng
+U+51E1	kMandarin	fán
+U+5207	kMandarin	qiè
+U+5211	kMandarin	xíng
+U+5217	kMandarin	liè
+U+5224	kMandarin	pàn
+U+5230	kMandarin	dào
+U+523B	kMandarin	kè
+U+524A	kMandarin	xuē
+U+524B	kMandarin	kè
+U+524D	kMandarin	qián
+U+5265	kMandarin	bō
+U+5272	kMandarin	gē
+U+52A0	kMandarin	jiā
+U+52B5	kMandarin	juàn
+U+52D1	kMandarin	chì
+U+52DD	kMandarin	shèng
+U+52E2	kMandarin	shì
+U+52FE	kMandarin	gōu
+U+5306	kMandarin	cōng
+U+5308	kMandarin	xiōng
+U+530F	kMandarin	páo
+U+532A	kMandarin	fěi
+U+532F	kMandarin	huì
+U+5339	kMandarin	pǐ
+U+533F	kMandarin	nì
+U+5341	kMandarin	shí
+U+5343	kMandarin	qiān
+U+5348	kMandarin	wǔ
+U+5351	kMandarin	bēi
+U+5352	kMandarin	zú
+U+5354	kMandarin	xié
+U+535C	kMandarin	bo
+U+536F	kMandarin	mǎo
+U+5373	kMandarin	jí
+U+5375	kMandarin	luǎn
+U+537B	kMandarin	què
+U+5384	kMandarin	è
+U+5396	kMandarin	páng
+U+539A	kMandarin	hòu
+U+53A5	kMandarin	jué
+U+53AD	kMandarin	yàn
+U+53C8	kMandarin	yòu
+U+53CB	kMandarin	yǒu
+U+53E8	kMandarin	dāo
+U+53EA	kMandarin	zhǐ
+U+53EC	kMandarin	zhào
+U+53F8	kMandarin	sī
+U+540F	kMandarin	lì
+U+5410	kMandarin	tǔ
+U+541D	kMandarin	lìn
+U+541E	kMandarin	tūn
+U+542B	kMandarin	hán
+U+5433	kMandarin	wú
+U+5439	kMandarin	chuī
+U+544A	kMandarin	gào
+U+5471	kMandarin	gū
+U+547C	kMandarin	hū
+U+54BD	kMandarin	yàn
+U+54ED	kMandarin	kū
+U+54F2	kMandarin	zhé
+U+5510	kMandarin	táng
+U+5546	kMandarin	shāng
+U+555E	kMandarin	yǎ
+U+5588	kMandarin	jiē
+U+55A7	kMandarin	xuān
+U+55AC	kMandarin	qiáo
+U+55AE	kMandarin	dān
+U+55E3	kMandarin	sì
+U+5614	kMandarin	ǒu
+U+5635	kMandarin	xiāo
+U+5670	kMandarin	yōng
+U+56B4	kMandarin	yán
+U+56BE	kMandarin	huān
+U+56CA	kMandarin	náng
+U+56D3	kMandarin	niè
+U+56DA	kMandarin	qiú
+U+56DE	kMandarin	huí
+U+56FF	kMandarin	yòu
+U+5703	kMandarin	pǔ
+U+5712	kMandarin	yuán
+U+572D	kMandarin	guī
+U+573B	kMandarin	qí
+U+5742	kMandarin	bǎn
+U+5751	kMandarin	kēng
+U+5782	kMandarin	chuí
+U+57C3	kMandarin	āi
+U+57D2	kMandarin	liè
+U+57DF	kMandarin	yù
+U+57F7	kMandarin	zhí
+U+57FA	kMandarin	jī
+U+582F	kMandarin	yáo
+U+5857	kMandarin	tú
+U+585E	kMandarin	sāi
+U+5872	kMandarin	cháng
+U+5875	kMandarin	chén
+U+589C	kMandarin	zhuì
+U+589E	kMandarin	zēng
+U+58A0	kMandarin	shàn
+U+58A8	kMandarin	mò
+U+58AE	kMandarin	duò
+U+58C1	kMandarin	bì
+U+58C5	kMandarin	yōng
+U+58EE	kMandarin	zhuàng
+U+58FD	kMandarin	shòu
+U+5907	kMandarin	bèi
+U+5922	kMandarin	mèng
+U+5947	kMandarin	qí
+U+5951	kMandarin	qì
+U+596A	kMandarin	duó
+U+5974	kMandarin	nú
+U+5978	kMandarin	jiān
+U+597D	kMandarin	hǎo
+U+5983	kMandarin	fēi
+U+5996	kMandarin	yāo
+U+59AC	kMandarin	dù
+U+59BA	kMandarin	mò
+U+59BE	kMandarin	qiè
+U+59D3	kMandarin	xìng
+U+59D4	kMandarin	wěi
+U+59EA	kMandarin	zhí
+U+5A01	kMandarin	wēi
+U+5A1B	kMandarin	yú
+U+5A23	kMandarin	dì
+U+5A36	kMandarin	qǔ
+U+5A62	kMandarin	bì
+U+5A92	kMandarin	méi
+U+5AAF	kMandarin	guī
+U+5ABF	kMandarin	kuì
+U+5AC9	kMandarin	jí
+U+5AD7	kMandarin	yù
+U+5B30	kMandarin	yīng
+U+5B34	kMandarin	yíng
+U+5B54	kMandarin	kǒng
+U+5B5D	kMandarin	xiào
+U+5B5F	kMandarin	mèng
+U+5B69	kMandarin	hái
+U+5B7A	kMandarin	rú
+U+5B7D	kMandarin	niè
+U+5B85	kMandarin	zhái
+U+5B87	kMandarin	yǔ
+U+5B88	kMandarin	shǒu
+U+5B8B	kMandarin	sòng
+U+5B8C	kMandarin	wán
+U+5B98	kMandarin	guān
+U+5B99	kMandarin	zhòu
+U+5B9B	kMandarin	wǎn
+U+5BA0	kMandarin	chǒng
+U+5BA2	kMandarin	kè
+U+5BA3	kMandarin	xuān
+U+5BAB	kMandarin	gōng
+U+5BAE	kMandarin	gōng
+U+5BB0	kMandarin	zǎi
+U+5BB9	kMandarin	róng
+U+5BBE	kMandarin	bīn
+U+5BC5	kMandarin	yín
+U+5BD0	kMandarin	mèi
+U+5BD3	kMandarin	yù
+U+5BDF	kMandarin	chá
+U+5BE1	kMandarin	guǎ
+U+5BE2	kMandarin	qǐn
+U+5BE4	kMandarin	wù
+U+5C04	kMandarin	shè
+U+5C07	kMandarin	jiāng
+U+5C0D	kMandarin	duì
+U+5C0E	kMandarin	dǎo
+U+5C1A	kMandarin	shàng
+U+5C39	kMandarin	yǐn
+U+5C3E	kMandarin	wěi
+U+5C48	kMandarin	qū
+U+5C4B	kMandarin	wū
+U+5C55	kMandarin	zhǎn
+U+5C68	kMandarin	jù
+U+5CB8	kMandarin	àn
+U+5CFB	kMandarin	jùn
+U+5D07	kMandarin	chóng
+U+5D11	kMandarin	kūn
+U+5D17	kMandarin	gǎng
+U+5D19	kMandarin	lún
+U+5D29	kMandarin	bēng
+U+5D53	kMandarin	yán
+U+5D6C	kMandarin	wéi
+U+5DD4	kMandarin	diān
+U+5DDD	kMandarin	chuān
+U+5DDE	kMandarin	zhōu
+U+5DE1	kMandarin	xún
+U+5DE6	kMandarin	zuǒ
+U+5DE8	kMandarin	jù
+U+5E03	kMandarin	bù
+U+5E0C	kMandarin	xī
+U+5E1B	kMandarin	bó
+U+5E36	kMandarin	dài
+U+5E6C	kMandarin	chóu
+U+5E74	kMandarin	nián
+U+5E78	kMandarin	xìng
+U+5E86	kMandarin	qìng
+U+5E87	kMandarin	bì
+U+5E8A	kMandarin	chuáng
+U+5E90	kMandarin	lú
+U+5E9A	kMandarin	gēng
+U+5EA6	kMandarin	dù
+U+5EAB	kMandarin	kù
+U+5EB7	kMandarin	kāng
+U+5ED3	kMandarin	kuò
+U+5EDA	kMandarin	chú
+U+5EE3	kMandarin	guǎng
+U+5F01	kMandarin	biàn
+U+5F0A	kMandarin	bì
+U+5F0B	kMandarin	yì
+U+5F15	kMandarin	yǐn
+U+5F18	kMandarin	hóng
+U+5F1F	kMandarin	dì
+U+5F53	kMandarin	dāng
+U+5F58	kMandarin	zhì
+U+5F80	kMandarin	wǎng
+U+5F81	kMandarin	zhēng
+U+5F85	kMandarin	dài
+U+5F99	kMandarin	xǐ
+U+5FAA	kMandarin	xún
+U+5FCC	kMandarin	jì
+U+5FCD	kMandarin	rěn
+U+5FD2	kMandarin	tè
+U+5FD8	kMandarin	wàng
+U+5FE4	kMandarin	wǔ
+U+5FFB	kMandarin	xīn
+U+5FFD	kMandarin	hū
+U+5FFF	kMandarin	fèn
+U+6012	kMandarin	nù
+U+6015	kMandarin	pà
+U+6016	kMandarin	bù
+U+6021	kMandarin	yí
+U+602A	kMandarin	guài
+U+602B	kMandarin	fú
+U+6043	kMandarin	shì
+U+6063	kMandarin	zì
+U+6064	kMandarin	xù
+U+6065	kMandarin	chǐ
+U+606D	kMandarin	gōng
+U+6076	kMandarin	è
+U+6085	kMandarin	yuè
+U+6096	kMandarin	bèi
+U+609A	kMandarin	sǒng
+U+60B5	kMandarin	chàng
+U+60DF	kMandarin	wéi
+U+60EB	kMandarin	bèi
+U+6106	kMandarin	qiān
+U+611B	kMandarin	ài
+U+611F	kMandarin	gǎn
+U+6127	kMandarin	kuì
+U+6146	kMandarin	tāo
+U+6148	kMandarin	cí
+U+614E	kMandarin	shèn
+U+6155	kMandarin	mù
+U+6162	kMandarin	màn
+U+6176	kMandarin	qìng
+U+618A	kMandarin	bèi
+U+6192	kMandarin	kuì
+U+61A4	kMandarin	fèn
+U+61F7	kMandarin	huái
+U+61FC	kMandarin	jù
+U+61FD	kMandarin	huān
+U+6200	kMandarin	liàn
+U+6208	kMandarin	gē
+U+620E	kMandarin	róng
+U+621F	kMandarin	jǐ
+U+6232	kMandarin	xì
+U+6236	kMandarin	hù
+U+623E	kMandarin	lì
+U+624D	kMandarin	cái
+U+6263	kMandarin	kòu
+U+6267	kMandarin	zhí
+U+626C	kMandarin	yáng
+U+6276	kMandarin	fú
+U+627F	kMandarin	chéng
+U+6280	kMandarin	jì
+U+62AB	kMandarin	pī
+U+62B1	kMandarin	bào
+U+62B5	kMandarin	dǐ
+U+62C2	kMandarin	fú
+U+62CA	kMandarin	fǔ
+U+62D8	kMandarin	jū
+U+6307	kMandarin	zhǐ
+U+632B	kMandarin	cuò
+U+632F	kMandarin	zhèn
+U+6350	kMandarin	juān
+U+6355	kMandarin	bǔ
+U+6387	kMandarin	duō
+U+6388	kMandarin	shòu
+U+63A2	kMandarin	tàn
+U+63A5	kMandarin	jiē
+U+63A8	kMandarin	tuī
+U+63A9	kMandarin	yǎn
+U+63AA	kMandarin	cuò
+U+63DA	kMandarin	yáng
+U+6414	kMandarin	sāo
+U+6416	kMandarin	yáo
+U+642F	kMandarin	tāo
+U+6467	kMandarin	cuī
+U+64AD	kMandarin	bō
+U+64C5	kMandarin	shàn
+U+64C7	kMandarin	zé
+U+64D4	kMandarin	dān
+U+64E2	kMandarin	zhuó
+U+64FE	kMandarin	rǎo
+U+652F	kMandarin	zhī
+U+6538	kMandarin	yōu
+U+6539	kMandarin	gǎi
+U+653B	kMandarin	gōng
+U+654F	kMandarin	mǐn
+U+6551	kMandarin	jiù
+U+6557	kMandarin	bài
+U+6559	kMandarin	jiào
+U+6582	kMandarin	liǎn
+U+65A7	kMandarin	fǔ
+U+65B0	kMandarin	xīn
+U+65B2	kMandarin	zhuó
+U+65B7	kMandarin	duàn
+U+65B9	kMandarin	fāng
+U+65C4	kMandarin	máo
+U+65CB	kMandarin	xuán
+U+65E6	kMandarin	dàn
+U+65EC	kMandarin	xún
+U+6607	kMandarin	shēng
+U+660F	kMandarin	hūn
+U+6625	kMandarin	chūn
+U+662D	kMandarin	zhāo
+U+663C	kMandarin	zhòu
+U+664B	kMandarin	jìn
+U+665A	kMandarin	wǎn
+U+665D	kMandarin	zhòu
+U+6662	kMandarin	zhé
+U+6664	kMandarin	wù
+U+6666	kMandarin	huì
+U+6668	kMandarin	chén
+U+666F	kMandarin	jǐng
+U+6670	kMandarin	xī
+U+6677	kMandarin	guǐ
+U+667A	kMandarin	zhì
+U+6691	kMandarin	shǔ
+U+66F3	kMandarin	yè
+U+66F8	kMandarin	shū
+U+66F9	kMandarin	cáo
+U+6700	kMandarin	zuì
+U+6710	kMandarin	qú
+U+671D	kMandarin	cháo
+U+671F	kMandarin	qī
+U+6731	kMandarin	zhū
+U+674E	kMandarin	lǐ
+U+6750	kMandarin	cái
+U+675C	kMandarin	dù
+U+675E	kMandarin	qǐ
+U+675F	kMandarin	shù
+U+6765	kMandarin	lái
+U+677C	kMandarin	zhù
+U+6797	kMandarin	lín
+U+679D	kMandarin	zhī
+U+67B3	kMandarin	zhǐ
+U+67C5	kMandarin	nǐ
+U+67DA	kMandarin	yòu
+U+67EF	kMandarin	kē
+U+67F1	kMandarin	zhù
+U+67F3	kMandarin	liǔ
+U+682A	kMandarin	zhū
+U+6839	kMandarin	gēn
+U+6843	kMandarin	táo
+U+6848	kMandarin	àn
+U+6850	kMandarin	tóng
+U+6851	kMandarin	sāng
+U+6874	kMandarin	fú
+U+6881	kMandarin	liáng
+U+6885	kMandarin	méi
+U+68A7	kMandarin	wú
+U+68A8	kMandarin	lí
+U+68AF	kMandarin	tī
+U+68C4	kMandarin	qì
+U+68D7	kMandarin	zǎo
+U+68D8	kMandarin	jí
+U+6958	kMandarin	mù
+U+695A	kMandarin	chǔ
+U+6969	kMandarin	pián
+U+6986	kMandarin	yú
+U+69AE	kMandarin	róng
+U+69FD	kMandarin	cáo
+U+6A39	kMandarin	shù
+U+6A48	kMandarin	ráo
+U+6A5F	kMandarin	jī
+U+6A6B	kMandarin	héng
+U+6ADC	kMandarin	gāo
+U+6B0A	kMandarin	quán
+U+6B21	kMandarin	cì
+U+6B23	kMandarin	xīn
+U+6B3D	kMandarin	qīn
+U+6B4C	kMandarin	gē
+U+6B5B	kMandarin	hān
+U+6B62	kMandarin	zhǐ
+U+6B65	kMandarin	bù
+U+6B72	kMandarin	suì
+U+6B77	kMandarin	lì
+U+6B8A	kMandarin	shū
+U+6B98	kMandarin	cán
+U+6BA4	kMandarin	shāng
+U+6BB7	kMandarin	yīn
+U+6BBA	kMandarin	shā
+U+6BC0	kMandarin	huǐ
+U+6BCB	kMandarin	wú
+U+6BD2	kMandarin	dú
+U+6C47	kMandarin	huì
+U+6C59	kMandarin	wū
+U+6C5C	kMandarin	sì
+U+6C60	kMandarin	chí
+U+6C61	kMandarin	wū
+U+6C83	kMandarin	wò
+U+6C89	kMandarin	chén
+U+6C92	kMandarin	méi
+U+6C96	kMandarin	chōng
+U+6C99	kMandarin	shā
+U+6C9B	kMandarin	pèi
+U+6CB1	kMandarin	tuó
+U+6CB8	kMandarin	fèi
+U+6CD5	kMandarin	fǎ
+U+6CDB	kMandarin	fàn
+U+6CE2	kMandarin	bō
+U+6CE5	kMandarin	ní
+U+6D17	kMandarin	xǐ
+U+6D25	kMandarin	jīn
+U+6D2A	kMandarin	hóng
+U+6D6E	kMandarin	fú
+U+6D78	kMandarin	jìn
+U+6D87	kMandarin	jīng
+U+6D88	kMandarin	xiāo
+U+6DBC	kMandarin	liáng
+U+6DEB	kMandarin	yín
+U+6DF1	kMandarin	shēn
+U+6E05	kMandarin	qīng
+U+6E1B	kMandarin	jiǎn
+U+6E20	kMandarin	qú
+U+6E21	kMandarin	dù
+U+6E2D	kMandarin	wèi
+U+6E38	kMandarin	yóu
+U+6E4E	kMandarin	miǎn
+U+6E6F	kMandarin	tāng
+U+6EA2	kMandarin	yì
+U+6EAB	kMandarin	wēn
+U+6EBD	kMandarin	rù
+U+6EC5	kMandarin	miè
+U+6EEF	kMandarin	zhì
+U+6F01	kMandarin	yú
+U+6F0F	kMandarin	lòu
+U+6F2C	kMandarin	zì
+U+6F54	kMandarin	jié
+U+6F64	kMandarin	rùn
+U+6FA4	kMandarin	zé
+U+6FC0	kMandarin	jī
+U+6FC1	kMandarin	zhuó
+U+6FE1	kMandarin	rú
+U+6FF1	kMandarin	bīn
+U+7006	kMandarin	dú
+U+703C	kMandarin	ráng
+U+704C	kMandarin	guàn
+U+706D	kMandarin	miè
+U+70CF	kMandarin	wū
+U+70F9	kMandarin	pēng
+U+7167	kMandarin	zhào
+U+7169	kMandarin	fán
+U+7187	kMandarin	hè
+U+718A	kMandarin	xióng
+U+7192	kMandarin	yíng
+U+719F	kMandarin	shú
+U+71BE	kMandarin	chì
+U+71CB	kMandarin	jiāo
+U+71CE	kMandarin	liáo
+U+71DF	kMandarin	yíng
+U+721B	kMandarin	làn
+U+7235	kMandarin	jué
+U+723E	kMandarin	ěr
+U+7242	kMandarin	zāng
+U+7259	kMandarin	yá
+U+725D	kMandarin	pìn
+U+7262	kMandarin	láo
+U+7267	kMandarin	mù
+U+7275	kMandarin	qiān
+U+7279	kMandarin	tè
+U+727D	kMandarin	qiān
+U+727E	kMandarin	wǔ
+U+7280	kMandarin	xī
+U+7281	kMandarin	lí
+U+72AC	kMandarin	quǎn
+U+72C2	kMandarin	kuáng
+U+72E2	kMandarin	hé
+U+72E9	kMandarin	shòu
+U+72EC	kMandarin	dú
+U+72F8	kMandarin	lí
+U+72F9	kMandarin	xiá
+U+731B	kMandarin	měng
+U+732C	kMandarin	wèi
+U+732D	kMandarin	chuān
+U+7333	kMandarin	jiā
+U+7334	kMandarin	hóu
+U+733F	kMandarin	yuán
+U+736E	kMandarin	xiǎn
+U+7375	kMandarin	liè
+U+7378	kMandarin	shòu
+U+737B	kMandarin	xiàn
+U+7383	kMandarin	jué
+U+7387	kMandarin	lǜ
+U+7389	kMandarin	yù
+U+73B3	kMandarin	dài
+U+73E0	kMandarin	zhū
+U+73EA	kMandarin	guī
+U+742E	kMandarin	cóng
+U+7441	kMandarin	mào
+U+745A	kMandarin	hú
+U+745F	kMandarin	sè
+U+7489	kMandarin	liǎn
+U+748B	kMandarin	zhāng
+U+74A7	kMandarin	bì
+U+74DC	kMandarin	guā
+U+74F6	kMandarin	píng
+U+7515	kMandarin	wèng
+U+751A	kMandarin	shèn
+U+752B	kMandarin	fǔ
+U+752F	kMandarin	níng
+U+7531	kMandarin	yóu
+U+7533	kMandarin	shēn
+U+754F	kMandarin	wèi
+U+7554	kMandarin	pàn
+U+7559	kMandarin	liú
+U+755D	kMandarin	mǔ
+U+7565	kMandarin	lüè
+U+7570	kMandarin	yì
+U+7574	kMandarin	chóu
+U+7586	kMandarin	jiāng
+U+7587	kMandarin	chóu
+U+75A5	kMandarin	jiè
+U+75DB	kMandarin	tòng
+U+75E2	kMandarin	lì
+U+7601	kMandarin	cuì
+U+760D	kMandarin	yáng
+U+7621	kMandarin	chuāng
+U+7624	kMandarin	liú
+U+7627	kMandarin	nüè
+U+7643	kMandarin	lóng
+U+766D	kMandarin	yǐng
+U+7678	kMandarin	guǐ
+U+7687	kMandarin	huáng
+U+768B	kMandarin	gāo
+U+76AE	kMandarin	pí
+U+76C6	kMandarin	pén
+U+76DF	kMandarin	méng
+U+76E3	kMandarin	jiān
+U+76E4	kMandarin	pán
+U+76E5	kMandarin	guàn
+U+76EA	kMandarin	dàng
+U+7701	kMandarin	shěng
+U+7707	kMandarin	miǎo
+U+771F	kMandarin	zhēn
+U+77E9	kMandarin	jǔ
+U+77ED	kMandarin	duǎn
+U+77F0	kMandarin	zēng
+U+7825	kMandarin	dǐ
+U+7834	kMandarin	pò
+U+7855	kMandarin	shuò
+U+78A9	kMandarin	shuò
+U+792A	kMandarin	lì
+U+793A	kMandarin	shì
+U+7940	kMandarin	sì
+U+7948	kMandarin	qí
+U+7949	kMandarin	zhǐ
+U+795A	kMandarin	zuò
+U+7981	kMandarin	jìn
+U+7984	kMandarin	lù
+U+7998	kMandarin	dì
+U+79A6	kMandarin	yù
+U+79B1	kMandarin	dǎo
+U+79BD	kMandarin	qín
+U+79C0	kMandarin	xiù
+U+79C9	kMandarin	bǐng
+U+79CB	kMandarin	qiū
+U+79E6	kMandarin	qín
+U+79EF	kMandarin	jī
+U+7A0D	kMandarin	shāo
+U+7A20	kMandarin	chóu
+U+7A31	kMandarin	chēng
+U+7A3B	kMandarin	dào
+U+7A3D	kMandarin	jī
+U+7A46	kMandarin	mù
+U+7A7D	kMandarin	jǐng
+U+7A7F	kMandarin	chuān
+U+7AA5	kMandarin	kuī
+U+7ACA	kMandarin	qiè
+U+7ADF	kMandarin	jìng
+U+7AE5	kMandarin	tóng
+U+7B11	kMandarin	xiào
+U+7B31	kMandarin	gǒu
+U+7B4B	kMandarin	jīn
+U+7B50	kMandarin	kuāng
+U+7B65	kMandarin	jǔ
+U+7B95	kMandarin	jī
+U+7BB1	kMandarin	xiāng
+U+7BC9	kMandarin	zhù
+U+7BE4	kMandarin	dǔ
+U+7C1E	kMandarin	dān
+U+7C21	kMandarin	jiǎn
+U+7C65	kMandarin	yuè
+U+7C9F	kMandarin	sù
+U+7CB1	kMandarin	liáng
+U+7CDF	kMandarin	zāo
+U+7CE0	kMandarin	kāng
+U+7CFB	kMandarin	xì
+U+7D00	kMandarin	jì
+U+7D04	kMandarin	yuē
+U+7D06	kMandarin	yū
+U+7D10	kMandarin	niǔ
+U+7D1B	kMandarin	fēn
+U+7D2B	kMandarin	zǐ
+U+7D50	kMandarin	jié
+U+7D61	kMandarin	luò
+U+7D66	kMandarin	gěi
+U+7D72	kMandarin	sī
+U+7D8F	kMandarin	suī
+U+7D93	kMandarin	jīng
+U+7DA0	kMandarin	lǜ
+U+7DAD	kMandarin	wéi
+U+7DD2	kMandarin	xù
+U+7DE9	kMandarin	huǎn
+U+7DEF	kMandarin	wěi
+U+7E1B	kMandarin	fù
+U+7E1E	kMandarin	gǎo
+U+7E2E	kMandarin	suō
+U+7E31	kMandarin	zòng
+U+7E41	kMandarin	fán
+U+7E52	kMandarin	zēng
+U+7E54	kMandarin	zhī
+U+7E6B	kMandarin	xì
+U+7E73	kMandarin	jiǎo
+U+7E7C	kMandarin	jì
+U+7E8D	kMandarin	léi
+U+7E98	kMandarin	zuǎn
+U+7EF4	kMandarin	wéi
+U+7F3A	kMandarin	quē
+U+7F54	kMandarin	wǎng
+U+7F61	kMandarin	gāng
+U+7F75	kMandarin	mà
+U+7F79	kMandarin	lí
+U+7F96	kMandarin	gǔ
+U+7F9E	kMandarin	xiū
+U+7FB8	kMandarin	léi
+U+7FBD	kMandarin	yǔ
+U+7FBF	kMandarin	yì
+U+7FD2	kMandarin	xí
+U+7FD4	kMandarin	xiáng
+U+7FD5	kMandarin	xī
+U+7FF1	kMandarin	áo
+U+7FFC	kMandarin	yì
+U+8001	kMandarin	lǎo
+U+8004	kMandarin	mào
+U+800B	kMandarin	dié
+U+8017	kMandarin	hào
+U+801C	kMandarin	sì
+U+8026	kMandarin	ǒu
+U+8033	kMandarin	ěr
+U+805E	kMandarin	wén
+U+8070	kMandarin	cōng
+U+8077	kMandarin	zhí
+U+807D	kMandarin	tīng
+U+8085	kMandarin	sù
+U+8089	kMandarin	ròu
+U+809D	kMandarin	gān
+U+80A4	kMandarin	fū
+U+80A5	kMandarin	féi
+U+80A9	kMandarin	jiān
+U+80AF	kMandarin	kěn
+U+80DC	kMandarin	shèng
+U+80F8	kMandarin	xiōng
+U+8105	kMandarin	xié
+U+811B	kMandarin	jìng
+U+8150	kMandarin	fǔ
+U+816F	kMandarin	tú
+U+8170	kMandarin	yāo
+U+8173	kMandarin	jiǎo
+U+8178	kMandarin	cháng
+U+8179	kMandarin	fù
+U+8189	kMandarin	yì
+U+818F	kMandarin	gāo
+U+819A	kMandarin	fū
+U+81A0	kMandarin	jiāo
+U+81C0	kMandarin	tún
+U+81C6	kMandarin	yì
+U+81DD	kMandarin	luǒ
+U+81F4	kMandarin	zhì
+U+81FA	kMandarin	tái
+U+8202	kMandarin	chōng
+U+8206	kMandarin	yú
+U+820A	kMandarin	jiù
+U+821E	kMandarin	wǔ
+U+821F	kMandarin	zhōu
+U+8239	kMandarin	chuán
+U+826F	kMandarin	liáng
+U+8270	kMandarin	jiān
+U+8271	kMandarin	jiān
+U+8272	kMandarin	sè
+U+8292	kMandarin	máng
+U+82B1	kMandarin	huā
+U+82B3	kMandarin	fāng
+U+82D1	kMandarin	yuàn
+U+82DE	kMandarin	bāo
+U+82DF	kMandarin	gǒu
+U+82F1	kMandarin	yīng
+U+8302	kMandarin	mào
+U+8305	kMandarin	máo
+U+8332	kMandarin	zī
+U+8339	kMandarin	rú
+U+8349	kMandarin	cǎo
+U+8350	kMandarin	jiàn
+U+8352	kMandarin	huāng
+U+8363	kMandarin	róng
+U+838A	kMandarin	zhuāng
+U+83EF	kMandarin	huá
+U+83F6	kMandarin	běng
+U+83FD	kMandarin	shū
+U+840B	kMandarin	qī
+U+843D	kMandarin	luò
+U+8449	kMandarin	yè
+U+8457	kMandarin	zhù
+U+8466	kMandarin	wěi
+U+846C	kMandarin	zàng
+U+84B8	kMandarin	zhēng
+U+84BC	kMandarin	cāng
+U+84EC	kMandarin	péng
+U+84FC	kMandarin	liǎo
+U+8511	kMandarin	miè
+U+852D	kMandarin	yīn
+U+853D	kMandarin	bì
+U+854A	kMandarin	ruǐ
+U+856D	kMandarin	xiāo
+U+85A6	kMandarin	jiàn
+U+85AA	kMandarin	xīn
+U+85C1	kMandarin	gǎo
+U+8606	kMandarin	lú
+U+8607	kMandarin	sū
+U+8616	kMandarin	niè
+U+862D	kMandarin	lán
+U+8650	kMandarin	nüè
+U+865A	kMandarin	xū
+U+865E	kMandarin	yú
+U+866B	kMandarin	chóng
+U+8675	kMandarin	shé
+U+8695	kMandarin	cán
+U+870E	kMandarin	yuān
+U+8712	kMandarin	yán
+U+873F	kMandarin	wān
+U+8766	kMandarin	xiā
+U+8778	kMandarin	wō
+U+879F	kMandarin	míng
+U+87BA	kMandarin	luó
+U+87BD	kMandarin	zhōng
+U+87C6	kMandarin	má
+U+87E0	kMandarin	pán
+U+8805	kMandarin	yíng
+U+8815	kMandarin	rú
+U+8853	kMandarin	shù
+U+8858	kMandarin	xián
+U+885D	kMandarin	chōng
+U+8861	kMandarin	héng
+U+8868	kMandarin	biǎo
+U+8870	kMandarin	shuāi
+U+8882	kMandarin	mèi
+U+88AB	kMandarin	bèi
+U+88CA	kMandarin	niǎo
+U+88CE	kMandarin	chéng
+U+88CF	kMandarin	lǐ
+U+88D5	kMandarin	yù
+U+88D9	kMandarin	qún
+U+88DC	kMandarin	bǔ
+U+890C	kMandarin	kūn
+U+8913	kMandarin	bǎo
+U+892B	kMandarin	chǐ
+U+8930	kMandarin	qiān
+U+8941	kMandarin	qiǎng
+U+894C	kMandarin	dān
+U+8962	kMandarin	tǎn
+U+8966	kMandarin	rú
+U+8981	kMandarin	yào
+U+898F	kMandarin	guī
+U+8996	kMandarin	shì
+U+89C2	kMandarin	guān
+U+89F8	kMandarin	chù
+U+8A2D	kMandarin	shè
+U+8A31	kMandarin	xǔ
+U+8A48	kMandarin	lì
+U+8A69	kMandarin	shī
+U+8A70	kMandarin	jié
+U+8A85	kMandarin	zhū
+U+8A95	kMandarin	dàn
+U+8AA5	kMandarin	gào
+U+8ABF	kMandarin	diào
+U+8AC2	kMandarin	chǎn
+U+8AE7	kMandarin	xié
+U+8AFE	kMandarin	nuò
+U+8B00	kMandarin	móu
+U+8B3E	kMandarin	mán
+U+8B50	kMandarin	zǔn
+U+8B8C	kMandarin	yàn
+U+8B92	kMandarin	chán
+U+8B9A	kMandarin	zàn
+U+8BBE	kMandarin	shè
+U+8BF0	kMandarin	gào
+U+8BF4	kMandarin	shuō
+U+8C4E	kMandarin	shù
+U+8C55	kMandarin	shǐ
+U+8C5A	kMandarin	tún
+U+8C62	kMandarin	huàn
+U+8C6D	kMandarin	jiā
+U+8C79	kMandarin	bào
+U+8C7A	kMandarin	chái
+U+8CA1	kMandarin	cái
+U+8CA7	kMandarin	pín
+U+8CA8	kMandarin	huò
+U+8CA9	kMandarin	fàn
+U+8CAA	kMandarin	tān
+U+8CAB	kMandarin	guàn
+U+8CB7	kMandarin	mǎi
+U+8CC0	kMandarin	hè
+U+8CD3	kMandarin	bīn
+U+8CDE	kMandarin	shǎng
+U+8CE3	kMandarin	mài
+U+8CE4	kMandarin	jiàn
+U+8CE6	kMandarin	fù
+U+8CEA	kMandarin	zhì
+U+8CED	kMandarin	dǔ
+U+8CF4	kMandarin	lài
+U+8D04	kMandarin	zhì
+U+8D16	kMandarin	shú
+U+8D25	kMandarin	bài
+U+8D2F	kMandarin	guàn
+U+8D66	kMandarin	shè
+U+8D85	kMandarin	chāo
+U+8D8A	kMandarin	yuè
+U+8D8D	kMandarin	chí
+U+8DA8	kMandarin	qū
+U+8DBE	kMandarin	zhǐ
+U+8DE1	kMandarin	jī
+U+8DEA	kMandarin	guì
+U+8DF1	kMandarin	zhì
+U+8E10	kMandarin	jiàn
+U+8E1F	kMandarin	chí
+U+8E27	kMandarin	cù
+U+8E36	kMandarin	dì
+U+8E60	kMandarin	zhí
+U+8E62	kMandarin	dí
+U+8E76	kMandarin	jué
+U+8E81	kMandarin	zào
+U+8E84	kMandarin	bì
+U+8E85	kMandarin	zhú
+U+8E91	kMandarin	zhí
+U+8E95	kMandarin	chú
+U+8EAC	kMandarin	gōng
+U+8ECD	kMandarin	jūn
+U+8EDF	kMandarin	ruǎn
+U+8EEB	kMandarin	zhěn
+U+8F08	kMandarin	zhōu
+U+8F12	kMandarin	zhé
+U+8F15	kMandarin	qīng
+U+8F26	kMandarin	niǎn
+U+8F2A	kMandarin	lún
+U+8F3B	kMandarin	fú
+U+8F42	kMandarin	gǔ
+U+8F45	kMandarin	yuán
+U+8F49	kMandarin	zhuǎn
+U+8F66	kMandarin	chē
+U+8F7D	kMandarin	zài
+U+8F9B	kMandarin	xīn
+U+8F9F	kMandarin	pì
+U+8FA8	kMandarin	biàn
+U+8FB1	kMandarin	rǔ
+U+8FB2	kMandarin	nóng
+U+8FCE	kMandarin	yíng
+U+8FD4	kMandarin	fǎn
+U+8FDC	kMandarin	yuǎn
+U+8FE8	kMandarin	dài
+U+8FF4	kMandarin	huí
+U+8FFD	kMandarin	zhuī
+U+9003	kMandarin	táo
+U+9006	kMandarin	nì
+U+900D	kMandarin	xiāo
+U+901D	kMandarin	shì
+U+902E	kMandarin	dǎi
+U+9038	kMandarin	yì
+U+903C	kMandarin	bī
+U+9042	kMandarin	suì
+U+904F	kMandarin	è
+U+9054	kMandarin	dá
+U+9059	kMandarin	yáo
+U+905C	kMandarin	xùn
+U+9069	kMandarin	shì
+U+906D	kMandarin	zāo
+U+906E	kMandarin	zhē
+U+9077	kMandarin	qiān
+U+907C	kMandarin	liáo
+U+907F	kMandarin	bì
+U+9084	kMandarin	hái
+U+9091	kMandarin	yì
+U+90AF	kMandarin	hán
+U+90CA	kMandarin	jiāo
+U+90E4	kMandarin	xì
+U+90FD	kMandarin	dōu
+U+9106	kMandarin	yùn
+U+9119	kMandarin	bǐ
+U+912D	kMandarin	zhèng
+U+9130	kMandarin	lín
+U+9132	kMandarin	dān
+U+9149	kMandarin	yǒu
+U+9177	kMandarin	kù
+U+9187	kMandarin	chún
+U+9189	kMandarin	zuì
+U+919C	kMandarin	chǒu
+U+91AB	kMandarin	yī
+U+91B2	kMandarin	nóng
+U+91B4	kMandarin	lǐ
+U+91CB	kMandarin	shì
+U+91DC	kMandarin	fǔ
+U+91E3	kMandarin	diào
+U+9285	kMandarin	tóng
+U+92B3	kMandarin	ruì
+U+92D2	kMandarin	fēng
+U+932B	kMandarin	xī
+U+932F	kMandarin	cuò
+U+93A1	kMandarin	zī
+U+9435	kMandarin	tiě
+U+9444	kMandarin	zhù
+U+9452	kMandarin	jiàn
+U+9460	kMandarin	shuò
+U+9521	kMandarin	xī
+U+9594	kMandarin	mǐn
+U+95A1	kMandarin	ài
+U+95A3	kMandarin	gé
+U+95C7	kMandarin	àn
+U+95DA	kMandarin	kuī
+U+95E2	kMandarin	pì
+U+961C	kMandarin	fù
+U+9632	kMandarin	fáng
+U+9634	kMandarin	yīn
+U+963F	kMandarin	ā
+U+9644	kMandarin	fù
+U+9668	kMandarin	yǔn
+U+966C	kMandarin	zōu
+U+9676	kMandarin	táo
+U+9678	kMandarin	lù
+U+9684	kMandarin	dī
+U+9686	kMandarin	lóng
+U+9694	kMandarin	gé
+U+9695	kMandarin	yǔn
+U+969B	kMandarin	jì
+U+96BE	kMandarin	nán
+U+96C0	kMandarin	què
+U+96C1	kMandarin	yàn
+U+96CD	kMandarin	yōng
+U+96CE	kMandarin	jū
+U+96D9	kMandarin	shuāng
+U+96DA	kMandarin	guàn
+U+96DB	kMandarin	chú
+U+96EA	kMandarin	xuě
+U+96F6	kMandarin	líng
+U+96F7	kMandarin	léi
+U+96F9	kMandarin	báo
+U+96FB	kMandarin	diàn
+U+9713	kMandarin	ní
+U+9716	kMandarin	lín
+U+971C	kMandarin	shuāng
+U+9727	kMandarin	wù
+U+9732	kMandarin	lù
+U+9738	kMandarin	bà
+U+9748	kMandarin	líng
+U+9752	kMandarin	qīng
+U+97D3	kMandarin	hán
+U+9805	kMandarin	xiàng
+U+9808	kMandarin	xū
+U+980C	kMandarin	sòng
+U+9813	kMandarin	dùn
+U+9818	kMandarin	lǐng
+U+9838	kMandarin	jǐng
+U+984F	kMandarin	yán
+U+9852	kMandarin	yóng
+U+985B	kMandarin	diān
+U+9867	kMandarin	gù
+U+986F	kMandarin	xiǎn
+U+987A	kMandarin	shùn
+U+98EF	kMandarin	fàn
+U+98FD	kMandarin	bǎo
+U+98FE	kMandarin	shì
+U+990A	kMandarin	yǎng
+U+990C	kMandarin	ěr
+U+9927	kMandarin	wèi
+U+9928	kMandarin	guǎn
+U+9999	kMandarin	xiāng
+U+99D2	kMandarin	jū
+U+99DF	kMandarin	sì
+U+99E2	kMandarin	pián
+U+99ED	kMandarin	hài
+U+99EE	kMandarin	bó
+U+9A02	kMandarin	xīng
+U+9A05	kMandarin	zhuī
+U+9A0F	kMandarin	qí
+U+9A2B	kMandarin	qiān
+U+9A2E	kMandarin	liú
+U+9A30	kMandarin	téng
+U+9A37	kMandarin	sāo
+U+9A44	kMandarin	cōng
+U+9A4A	kMandarin	huá
+U+9A5F	kMandarin	zhòu
+U+9A62	kMandarin	lǘ
+U+9A64	kMandarin	xiāng
+U+9A65	kMandarin	jì
+U+9A6C	kMandarin	mǎ
+U+9AA8	kMandarin	gǔ
+U+9AB8	kMandarin	hái
+U+9AEE	kMandarin	fà
+U+9AEF	kMandarin	rán
+U+9B1A	kMandarin	xū
+U+9B31	kMandarin	yù
+U+9B42	kMandarin	hún
+U+9B44	kMandarin	pò
+U+9B4F	kMandarin	wèi
+U+9B5A	kMandarin	yú
+U+9B74	kMandarin	fáng
+U+9BC9	kMandarin	lǐ
+U+9C0C	kMandarin	qiū
+U+9C25	kMandarin	guān
+U+9C49	kMandarin	biē
+U+9C63	kMandarin	zhān
+U+9C7C	kMandarin	yú
+U+9CE7	kMandarin	fú
+U+9D08	kMandarin	yàn
+U+9D1B	kMandarin	yuān
+U+9D1E	kMandarin	xiāo
+U+9D1F	kMandarin	chī
+U+9D23	kMandarin	gū
+U+9D3B	kMandarin	hóng
+U+9D41	kMandarin	jiāo
+U+9D5C	kMandarin	tí
+U+9D5D	kMandarin	é
+U+9D60	kMandarin	hú
+U+9DB4	kMandarin	hè
+U+9DC2	kMandarin	yào
+U+9DC7	kMandarin	kòu
+U+9DD6	kMandarin	yī
+U+9DF9	kMandarin	yīng
+U+9E07	kMandarin	zhān
+U+9E1E	kMandarin	luán
+U+9E7F	kMandarin	lù
+U+9E87	kMandarin	jūn
+U+9E92	kMandarin	qí
+U+9E93	kMandarin	lù
+U+9E97	kMandarin	lì
+U+9E9F	kMandarin	lín
+U+9EC4	kMandarin	huáng
+U+9ED1	kMandarin	hēi
+U+9EEF	kMandarin	àn
+U+9F20	kMandarin	shǔ
+U+9F2B	kMandarin	shí
+U+9F4E	kMandarin	jī
+U+9F52	kMandarin	chǐ
+U+9F5F	kMandarin	jǔ
+U+9F6C	kMandarin	yǔ
