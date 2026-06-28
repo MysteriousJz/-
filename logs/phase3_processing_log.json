@@ -1,144 +1,144 @@
 {
   "phase": 3,
-  "timestamp": "2026-06-28T20:27:28.585154+00:00",
+  "timestamp": "2026-06-28T21:48:04.849262+00:00",
   "requested_numbers": [
-    2,
-    5,
-    8,
-    11,
-    19,
-    24,
-    34,
-    43
+    1,
+    44,
+    33,
+    12,
+    20,
+    23,
+    35,
+    14
   ],
   "hexagram_processed": {
-    "number": 43,
-    "name": "夬",
-    "symbol": "䷪"
+    "number": 14,
+    "name": "大有",
+    "symbol": "䷍"
   },
   "processed_hexagrams": [
     {
-      "number": 2,
-      "name": "坤",
-      "symbol": "䷁",
-      "output_file": "output/hexagram_02_坤.html",
+      "number": 1,
+      "name": "乾",
+      "symbol": "䷀",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_01_乾.html",
       "statistics": {
-        "unique_characters_in_glossary": 844,
-        "total_glossary_entries": 844,
-        "total_chinese_characters": 3175,
+        "unique_characters_in_glossary": 951,
+        "total_glossary_entries": 951,
+        "total_chinese_characters": 4687,
         "estimated_page_count": 4,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 841
+        "characters_with_definitions": 949
       }
     },
     {
-      "number": 5,
-      "name": "需",
-      "symbol": "䷄",
-      "output_file": "output/hexagram_05_需.html",
+      "number": 44,
+      "name": "姤",
+      "symbol": "䷫",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_44_姤.html",
       "statistics": {
-        "unique_characters_in_glossary": 796,
-        "total_glossary_entries": 796,
-        "total_chinese_characters": 2337,
+        "unique_characters_in_glossary": 766,
+        "total_glossary_entries": 766,
+        "total_chinese_characters": 2290,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 796
+        "characters_with_definitions": 764
       }
     },
     {
-      "number": 8,
-      "name": "比",
-      "symbol": "䷇",
-      "output_file": "output/hexagram_08_比.html",
+      "number": 33,
+      "name": "遯",
+      "symbol": "䷠",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_33_遯.html",
       "statistics": {
-        "unique_characters_in_glossary": 794,
-        "total_glossary_entries": 794,
-        "total_chinese_characters": 2427,
+        "unique_characters_in_glossary": 782,
+        "total_glossary_entries": 782,
+        "total_chinese_characters": 2215,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 790
+        "characters_with_definitions": 780
       }
     },
     {
-      "number": 11,
-      "name": "泰",
-      "symbol": "䷊",
-      "output_file": "output/hexagram_11_泰.html",
+      "number": 12,
+      "name": "否",
+      "symbol": "䷋",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_12_否.html",
       "statistics": {
-        "unique_characters_in_glossary": 783,
-        "total_glossary_entries": 783,
-        "total_chinese_characters": 2397,
+        "unique_characters_in_glossary": 733,
+        "total_glossary_entries": 733,
+        "total_chinese_characters": 2093,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 781
+        "characters_with_definitions": 730
       }
     },
     {
-      "number": 19,
-      "name": "临",
-      "symbol": "䷒",
-      "output_file": "output/hexagram_19_临.html",
+      "number": 20,
+      "name": "观",
+      "symbol": "䷓",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_20_观.html",
       "statistics": {
-        "unique_characters_in_glossary": 724,
-        "total_glossary_entries": 724,
-        "total_chinese_characters": 2182,
+        "unique_characters_in_glossary": 743,
+        "total_glossary_entries": 743,
+        "total_chinese_characters": 2295,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 723
+        "characters_with_definitions": 740
       }
     },
     {
-      "number": 24,
-      "name": "复",
-      "symbol": "䷗",
-      "output_file": "output/hexagram_24_复.html",
+      "number": 23,
+      "name": "剥",
+      "symbol": "䷖",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_23_剥.html",
       "statistics": {
-        "unique_characters_in_glossary": 812,
-        "total_glossary_entries": 812,
-        "total_chinese_characters": 2429,
-        "estimated_page_count": 3,
-        "sections_with_pinyin": 8,
-        "characters_with_definitions": 810
-      }
-    },
-    {
-      "number": 34,
-      "name": "大壮",
-      "symbol": "䷡",
-      "output_file": "output/hexagram_34_大壮.html",
-      "statistics": {
-        "unique_characters_in_glossary": 770,
-        "total_glossary_entries": 770,
-        "total_chinese_characters": 2302,
+        "unique_characters_in_glossary": 769,
+        "total_glossary_entries": 769,
+        "total_chinese_characters": 2206,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
         "characters_with_definitions": 767
       }
     },
     {
-      "number": 43,
-      "name": "夬",
-      "symbol": "䷪",
-      "output_file": "output/hexagram_43_夬.html",
+      "number": 35,
+      "name": "晋",
+      "symbol": "䷢",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_35_晋.html",
       "statistics": {
-        "unique_characters_in_glossary": 824,
-        "total_glossary_entries": 824,
-        "total_chinese_characters": 2533,
+        "unique_characters_in_glossary": 761,
+        "total_glossary_entries": 761,
+        "total_chinese_characters": 2277,
         "estimated_page_count": 3,
         "sections_with_pinyin": 8,
-        "characters_with_definitions": 821
+        "characters_with_definitions": 757
+      }
+    },
+    {
+      "number": 14,
+      "name": "大有",
+      "symbol": "䷍",
+      "output_file": "/home/runner/work/REPREP/REPREP/output/hexagram_14_大有.html",
+      "statistics": {
+        "unique_characters_in_glossary": 761,
+        "total_glossary_entries": 761,
+        "total_chinese_characters": 2378,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 758
       }
     }
   ],
   "generated_files": [
-    "output/hexagram_02_坤.html",
-    "output/hexagram_05_需.html",
-    "output/hexagram_08_比.html",
-    "output/hexagram_11_泰.html",
-    "output/hexagram_19_临.html",
-    "output/hexagram_24_复.html",
-    "output/hexagram_34_大壮.html",
-    "output/hexagram_43_夬.html"
+    "/home/runner/work/REPREP/REPREP/output/hexagram_01_乾.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_44_姤.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_33_遯.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_12_否.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_20_观.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_23_剥.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_35_晋.html",
+    "/home/runner/work/REPREP/REPREP/output/hexagram_14_大有.html"
   ],
   "scripts_created": [
     "scripts/config.py",
@@ -152,12 +152,12 @@
     "scripts/README.md"
   ],
   "statistics": {
-    "unique_characters_in_glossary": 824,
-    "total_glossary_entries": 824,
-    "total_chinese_characters": 2533,
+    "unique_characters_in_glossary": 761,
+    "total_glossary_entries": 761,
+    "total_chinese_characters": 2378,
     "estimated_page_count": 3,
     "sections_with_pinyin": 8,
-    "characters_with_definitions": 821
+    "characters_with_definitions": 758
   },
   "validation": {
     "all_scripts_created": true,

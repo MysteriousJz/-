@@ -28,10 +28,16 @@ From repository root:
 python scripts/process_hexagram.py --number 1 --output output
 ```
 
-Batch processing:
+Batch processing by palace:
 
 ```bash
-python scripts/process_hexagram.py --numbers 1,2,3 --output output
+python scripts/process_hexagram.py --palace qian --output output
+```
+
+Process every hexagram:
+
+```bash
+python scripts/process_hexagram.py --all --output output
 ```
 
 Build phase-2 source pages from the raw CText exports:
@@ -44,6 +50,9 @@ Optional arguments:
 
 - `--logs logs` (default: `logs/`)
 - `--repo-root /path/to/repo`
+- `--number N` or `--numbers N1,N2,...`
+- `--palace qian` for the Qián Palace sequence
+- `--all` to process every mapped hexagram
 
 ## Outputs
 

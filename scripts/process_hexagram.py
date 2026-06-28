@@ -13,11 +13,13 @@ if str(SCRIPT_DIR) not in sys.path:
     sys.path.insert(0, str(SCRIPT_DIR))
 
 from config import (  # noqa: E402
+    all_hexagram_numbers,
     DEFAULT_LOG_DIR,
     DEFAULT_OUTPUT_DIR,
     REPO_ROOT,
     SECTION_ORDER,
     UNIHAN_FILE_CANDIDATES,
+    numbers_for_palace,
     resolve_source_file,
 )
 from glossary_builder import build_glossary  # noqa: E402
@@ -46,6 +48,14 @@ def _parse_hexagram_numbers(args: argparse.Namespace) -> list[int]:
     return result
 
 
+def _select_hexagrams(args: argparse.Namespace) -> list[int]:
+    if args.all:
+        return all_hexagram_numbers(args.repo_root)
+    if args.palace:
+        return numbers_for_palace(args.palace, args.repo_root)
+    return _parse_hexagram_numbers(args)
+
+
 def _count_source_lines(extracted) -> int:
     line_count = sum(len(extracted.sections.get(section, [])) for section in SECTION_ORDER)
     line_count += len(extracted.transformations)
@@ -54,8 +64,11 @@ def _count_source_lines(extracted) -> int:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Process hexagram source HTML into print-ready output")
-    parser.add_argument("--number", type=int, help="Single hexagram number to process")
-    parser.add_argument("--numbers", type=str, help="Comma-separated hexagram numbers")
+    selection = parser.add_mutually_exclusive_group(required=True)
+    selection.add_argument("--number", type=int, help="Single hexagram number to process")
+    selection.add_argument("--numbers", type=str, help="Comma-separated hexagram numbers")
+    selection.add_argument("--palace", type=str, help="Process a palace by name, e.g. qian")
+    selection.add_argument("--all", action="store_true", help="Process all hexagrams in the mapping file")
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_DIR, help="Output directory")
     parser.add_argument("--logs", type=Path, default=DEFAULT_LOG_DIR, help="Log directory")
     parser.add_argument("--repo-root", type=Path, default=REPO_ROOT, help="Repository root directory")
@@ -63,7 +76,7 @@ def main() -> int:
     args = parser.parse_args()
 
     try:
-        numbers = _parse_hexagram_numbers(args)
+        numbers = _select_hexagrams(args)
     except Exception as exc:
         print(f"[error] Invalid arguments: {exc}", file=sys.stderr)
         return 2
