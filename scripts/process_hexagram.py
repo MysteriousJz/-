@@ -85,6 +85,7 @@ def main() -> int:
         return 4
 
     generated_paths: list[Path] = []
+    processed_hexagrams: list[dict[str, object]] = []
     final_stats = {}
     final_hexagram_meta = {}
 
@@ -120,11 +121,23 @@ def main() -> int:
             "name": extracted.name,
             "symbol": extracted.symbol,
         }
+        processed_hexagrams.append(
+            {
+                "number": number,
+                "name": extracted.name,
+                "symbol": extracted.symbol,
+                "output_file": str(output_path),
+                "statistics": final_stats,
+            }
+        )
 
     log_payload = {
         "phase": 3,
         "timestamp": datetime.now(timezone.utc).isoformat(),
+        "requested_numbers": numbers,
         "hexagram_processed": final_hexagram_meta,
+        "processed_hexagrams": processed_hexagrams,
+        "generated_files": [str(path) for path in generated_paths],
         "scripts_created": [
             "scripts/config.py",
             "scripts/unihan_parser.py",
@@ -132,6 +145,7 @@ def main() -> int:
             "scripts/pinyin_converter.py",
             "scripts/glossary_builder.py",
             "scripts/html_generator.py",
+            "scripts/build_phase2_sources.py",
             "scripts/process_hexagram.py",
             "scripts/README.md",
         ],
@@ -139,7 +153,7 @@ def main() -> int:
         "validation": {
             "all_scripts_created": True,
             "all_scripts_executable": True,
-            "hexagram_1_html_generated": any(p.name == "hexagram_01_乾.html" for p in generated_paths),
+            "requested_outputs_generated": len(generated_paths) == len(numbers),
             "dual_column_layout_verified": True,
             "glossary_sorted_correctly": True,
             "print_margins_correct": True,

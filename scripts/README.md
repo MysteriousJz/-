@@ -11,6 +11,7 @@ This directory contains standalone scripts for local processing of hexagram HTML
 - `glossary_builder.py` - builds glossary with `§X.Y` location references
 - `html_generator.py` - renders final print-formatted multi-column HTML
 - `process_hexagram.py` - command-line orchestration script
+- `build_phase2_sources.py` - builds phase-2 source HTML from the raw CText pages
 
 ## Requirements
 
@@ -31,6 +32,12 @@ Batch processing:
 
 ```bash
 python scripts/process_hexagram.py --numbers 1,2,3 --output output
+```
+
+Build phase-2 source pages from the raw CText exports:
+
+```bash
+python scripts/build_phase2_sources.py --numbers 1,2,3
 ```
 
 Optional arguments:

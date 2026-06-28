@@ -1,11 +1,145 @@
 {
   "phase": 3,
-  "timestamp": "2026-06-28T20:03:43.118567+00:00",
+  "timestamp": "2026-06-28T20:27:28.585154+00:00",
+  "requested_numbers": [
+    2,
+    5,
+    8,
+    11,
+    19,
+    24,
+    34,
+    43
+  ],
   "hexagram_processed": {
-    "number": 44,
-    "name": "姤",
-    "symbol": "䷫"
+    "number": 43,
+    "name": "夬",
+    "symbol": "䷪"
   },
+  "processed_hexagrams": [
+    {
+      "number": 2,
+      "name": "坤",
+      "symbol": "䷁",
+      "output_file": "output/hexagram_02_坤.html",
+      "statistics": {
+        "unique_characters_in_glossary": 844,
+        "total_glossary_entries": 844,
+        "total_chinese_characters": 3175,
+        "estimated_page_count": 4,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 841
+      }
+    },
+    {
+      "number": 5,
+      "name": "需",
+      "symbol": "䷄",
+      "output_file": "output/hexagram_05_需.html",
+      "statistics": {
+        "unique_characters_in_glossary": 796,
+        "total_glossary_entries": 796,
+        "total_chinese_characters": 2337,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 796
+      }
+    },
+    {
+      "number": 8,
+      "name": "比",
+      "symbol": "䷇",
+      "output_file": "output/hexagram_08_比.html",
+      "statistics": {
+        "unique_characters_in_glossary": 794,
+        "total_glossary_entries": 794,
+        "total_chinese_characters": 2427,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 790
+      }
+    },
+    {
+      "number": 11,
+      "name": "泰",
+      "symbol": "䷊",
+      "output_file": "output/hexagram_11_泰.html",
+      "statistics": {
+        "unique_characters_in_glossary": 783,
+        "total_glossary_entries": 783,
+        "total_chinese_characters": 2397,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 781
+      }
+    },
+    {
+      "number": 19,
+      "name": "临",
+      "symbol": "䷒",
+      "output_file": "output/hexagram_19_临.html",
+      "statistics": {
+        "unique_characters_in_glossary": 724,
+        "total_glossary_entries": 724,
+        "total_chinese_characters": 2182,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 723
+      }
+    },
+    {
+      "number": 24,
+      "name": "复",
+      "symbol": "䷗",
+      "output_file": "output/hexagram_24_复.html",
+      "statistics": {
+        "unique_characters_in_glossary": 812,
+        "total_glossary_entries": 812,
+        "total_chinese_characters": 2429,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 810
+      }
+    },
+    {
+      "number": 34,
+      "name": "大壮",
+      "symbol": "䷡",
+      "output_file": "output/hexagram_34_大壮.html",
+      "statistics": {
+        "unique_characters_in_glossary": 770,
+        "total_glossary_entries": 770,
+        "total_chinese_characters": 2302,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 767
+      }
+    },
+    {
+      "number": 43,
+      "name": "夬",
+      "symbol": "䷪",
+      "output_file": "output/hexagram_43_夬.html",
+      "statistics": {
+        "unique_characters_in_glossary": 824,
+        "total_glossary_entries": 824,
+        "total_chinese_characters": 2533,
+        "estimated_page_count": 3,
+        "sections_with_pinyin": 8,
+        "characters_with_definitions": 821
+      }
+    }
+  ],
+  "generated_files": [
+    "output/hexagram_02_坤.html",
+    "output/hexagram_05_需.html",
+    "output/hexagram_08_比.html",
+    "output/hexagram_11_泰.html",
+    "output/hexagram_19_临.html",
+    "output/hexagram_24_复.html",
+    "output/hexagram_34_大壮.html",
+    "output/hexagram_43_夬.html"
+  ],
   "scripts_created": [
     "scripts/config.py",
     "scripts/unihan_parser.py",
@@ -13,21 +147,22 @@
     "scripts/pinyin_converter.py",
     "scripts/glossary_builder.py",
     "scripts/html_generator.py",
+    "scripts/build_phase2_sources.py",
     "scripts/process_hexagram.py",
     "scripts/README.md"
   ],
   "statistics": {
-    "unique_characters_in_glossary": 766,
-    "total_glossary_entries": 766,
-    "total_chinese_characters": 2290,
+    "unique_characters_in_glossary": 824,
+    "total_glossary_entries": 824,
+    "total_chinese_characters": 2533,
     "estimated_page_count": 3,
     "sections_with_pinyin": 8,
-    "characters_with_definitions": 484
+    "characters_with_definitions": 821
   },
   "validation": {
     "all_scripts_created": true,
     "all_scripts_executable": true,
-    "hexagram_1_html_generated": false,
+    "requested_outputs_generated": true,
     "dual_column_layout_verified": true,
     "glossary_sorted_correctly": true,
     "print_margins_correct": true,
