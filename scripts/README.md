@@ -1,0 +1,51 @@
+# Hexagram Processing Scripts
+
+This directory contains standalone scripts for local processing of hexagram HTML files into print-ready outputs with pinyin and glossary references.
+
+## Files
+
+- `config.py` - central configuration (paths, section mapping, print fonts/margins)
+- `unihan_parser.py` - parses Unihan files into a character lookup dictionary
+- `html_extractor.py` - extracts section text and transformations from source HTML
+- `pinyin_converter.py` - converts Chinese lines into pinyin via lookup
+- `glossary_builder.py` - builds glossary with `§X.Y` location references
+- `html_generator.py` - renders final print-formatted multi-column HTML
+- `process_hexagram.py` - command-line orchestration script
+
+## Requirements
+
+- Python 3.10+
+- Repository root contains source files such as `hexagram_01_qian.html`
+- Unihan file available at: `Unihan_Readings.txt`
+  - Optional: `Unihan_DictionaryLikeData.txt`
+
+## Usage
+
+From repository root:
+
+```bash
+python scripts/process_hexagram.py --number 1 --output output
+```
+
+Batch processing:
+
+```bash
+python scripts/process_hexagram.py --numbers 1,2,3 --output output
+```
+
+Optional arguments:
+
+- `--logs logs` (default: `logs/`)
+- `--repo-root /path/to/repo`
+
+## Outputs
+
+- `output/hexagram_XX_<name>.html`
+- `logs/phase3_processing_log.json`
+
+## Notes
+
+- Output uses print CSS for US Letter (8.5"×11") and binding-friendly left margin.
+- Sections 1-8 are rendered in Chinese/Pinyin dual columns.
+- Focus transformations are rendered in two columns.
+- Glossary is rendered in three columns and sorted by pinyin (tone-aware).
