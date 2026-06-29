@@ -68,16 +68,14 @@ Optional arguments:
 - `--palace qian` for the Qián Palace sequence
 - `--all` to process every mapped hexagram
 - `--recursive` to process nested library directories
-- `--merge` to also emit a combined `book.html` page per directory
+- `--merge` is retained for compatibility; combined output is now the default
 - `--name "Custom Name"` to override the output title for a selected directory
 
 ## Outputs
 
 - `output/hexagram_XX_<name>.html`
 - `logs/phase3_processing_log.json`
-- `output/<collection>/.../index.html`
-- `output/<collection>/.../chapter_XXX.html`
-- `output/<collection>/.../glossary.html`
+- `output/<collection>/.../<collection>.html`
 - `logs/processing_log.json`
 
 ## Notes

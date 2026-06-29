@@ -25,9 +25,6 @@ from library_extractor import LibraryEntry, LibrarySource, extract_library_sourc
 from library_glossary import build_library_glossary  # noqa: E402
 from library_html_generator import (  # noqa: E402
     LibraryBook,
-    generate_entry_html,
-    generate_glossary_html,
-    generate_index_html,
     generate_merged_html,
 )
 from unihan_parser import build_unihan_lookup, locate_unihan_file  # noqa: E402
@@ -94,6 +91,19 @@ def _resolve_book_title(book_dir: Path, sources: list[LibrarySource], custom_nam
     return clean_site_title(book_dir.name) or book_dir.name
 
 
+def _resolve_output_path(book_dir: Path, output_root: Path) -> Path:
+    try:
+        relative_book = book_dir.relative_to(REPO_ROOT)
+    except ValueError:
+        relative_book = Path(book_dir.name)
+
+    if len(relative_book.parts) == 1:
+        output_dir = output_root / relative_book
+    else:
+        output_dir = output_root / relative_book.parent
+    return output_dir / f"{relative_book.name}.html"
+
+
 def _prepare_book(book_dir: Path, sources: list[LibrarySource], custom_name: str | None) -> LibraryBook:
     entries: list[LibraryEntry] = []
     for source in sources:
@@ -108,31 +118,10 @@ def _prepare_book(book_dir: Path, sources: list[LibrarySource], custom_name: str
     )
 
 
-def _write_entry_pages(book: LibraryBook, output_dir: Path, lookup: dict[str, object]) -> list[Path]:
-    generated: list[Path] = []
-    for entry in book.entries:
-        html = generate_entry_html(book, entry, lookup)
-        output_path = output_dir / f"chapter_{entry.book_index:03d}.html"
-        output_path.write_text(html, encoding="utf-8")
-        generated.append(output_path)
-    return generated
-
-
-def _write_book_assets(book: LibraryBook, output_dir: Path, lookup: dict[str, object], glossary) -> list[Path]:
-    output_dir.mkdir(parents=True, exist_ok=True)
-    generated = _write_entry_pages(book, output_dir, lookup)
-    index_path = output_dir / "index.html"
-    index_path.write_text(generate_index_html(book), encoding="utf-8")
-    glossary_path = output_dir / "glossary.html"
-    glossary_path.write_text(generate_glossary_html(book, glossary), encoding="utf-8")
-    generated.extend([index_path, glossary_path])
-    return generated
-
-
-def _write_merged_book(book: LibraryBook, output_dir: Path, lookup: dict[str, object]) -> Path:
-    merged_path = output_dir / "book.html"
-    merged_path.write_text(generate_merged_html(book, lookup), encoding="utf-8")
-    return merged_path
+def _write_book_file(book: LibraryBook, output_path: Path, lookup: dict[str, object], glossary) -> Path:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(generate_merged_html(book, lookup, glossary), encoding="utf-8")
+    return output_path
 
 
 def _iter_selected_roots(args: argparse.Namespace) -> list[tuple[Path, str | None]]:
@@ -167,7 +156,7 @@ def main() -> int:
     parser.add_argument("--logs", type=Path, default=DEFAULT_LOG_DIR, help="Log directory")
     parser.add_argument("--unihan", type=Path, default=REPO_ROOT, help="Path to Unihan files or repo root")
     parser.add_argument("--recursive", action="store_true", help="Process nested directories recursively")
-    parser.add_argument("--merge", action="store_true", help="Also generate a merged book page")
+    parser.add_argument("--merge", action="store_true", help="Retained for compatibility; combined output is the default")
     parser.add_argument("--name", type=str, help="Custom name for the selected directory")
 
     args = parser.parse_args()
@@ -217,30 +206,24 @@ def main() -> int:
             errors.append(f"No HTML files found under: {root}")
             continue
 
-        root_name = custom_name or root.name
         for book_dir in book_dirs:
             try:
                 sources = _load_sources(book_dir)
                 if not sources:
                     continue
                 book = _prepare_book(book_dir, sources, custom_name if book_dir == root else None)
-                rel_dir = book_dir.relative_to(root) if book_dir != root else Path()
-                output_dir = args.output / cached_slug(root_name)
-                if rel_dir != Path():
-                    output_dir = output_dir / rel_dir
-
+                output_path = _resolve_output_path(book_dir, args.output)
                 glossary = build_library_glossary(book.entries, lookup, book.slug)
                 unique_chars.update(entry.char for entry in glossary.entries)
-                generated_paths = _write_book_assets(book, output_dir, lookup, glossary)
-                if args.merge:
-                    generated_paths.append(_write_merged_book(book, output_dir, lookup))
+                generated_path = _write_book_file(book, output_path, lookup, glossary)
 
                 total_entries += len(book.entries)
-                all_generated.extend(str(path) for path in generated_paths)
+                all_generated.append(str(generated_path))
                 all_books.append(
                     {
                         "source_directory": str(book_dir),
-                        "output_directory": str(output_dir),
+                        "output_directory": str(output_path.parent),
+                        "output_file": str(output_path),
                         "title": book.title,
                         "slug": book.slug,
                         "sources": [str(source.source_path) for source in sources],
@@ -249,7 +232,7 @@ def main() -> int:
                         "glossary_entries": len(glossary.entries),
                     }
                 )
-                print(f"[ok] {book_dir} -> {output_dir} ({len(book.entries)} entries)")
+                print(f"[ok] {book_dir} -> {output_path} ({len(book.entries)} entries)")
             except Exception as exc:
                 errors.append(f"{book_dir}: {exc}")
                 print(f"[error] {book_dir}: {exc}", file=sys.stderr)
