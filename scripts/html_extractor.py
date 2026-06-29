@@ -19,6 +19,7 @@ def _normalize_text(text: str) -> str:
 class Transformation:
     title: str
     text: str
+    commentary: str = ""
 
 
 @dataclass

@@ -26,6 +26,14 @@ def _render_rows(lines: list[str], lookup: dict[str, UnihanRecord]) -> str:
 def _render_transformations(extracted: ExtractedHexagram, lookup: dict[str, UnihanRecord]) -> str:
     cards = []
     for item in extracted.transformations:
+        commentary_html = ""
+        if item.commentary:
+            commentary_html = (
+                '<div class="commentary">'
+                f'<div class="zh">【注】{escape(item.commentary)}</div>'
+                f'<div class="py">【zhù】{escape(to_pinyin_line(item.commentary, lookup))}</div>'
+                "</div>"
+            )
         cards.append(
             "<div class=\"transformation-card\">"
             f"<h3>{escape(item.title)}</h3>"
@@ -33,6 +41,7 @@ def _render_transformations(extracted: ExtractedHexagram, lookup: dict[str, Unih
             f"<div class=\"zh\">{escape(item.text)}</div>"
             f"<div class=\"py\">{escape(to_pinyin_line(item.text, lookup))}</div>"
             "</div>"
+            f"{commentary_html}"
             "</div>"
         )
     return "\n".join(cards)
@@ -46,7 +55,6 @@ def _render_glossary(glossary: GlossaryBuildResult) -> str:
             f"<div class=\"glossary-char\">{escape(entry.char)}</div>"
             f"<div class=\"glossary-pinyin\">{escape(entry.pinyin)}</div>"
             f"<div class=\"glossary-definition\">{escape(entry.definition)}</div>"
-            f"<div class=\"glossary-locations\">{escape(', '.join(entry.references))}</div>"
             "</div>"
         )
     return "\n".join(entries)
@@ -55,7 +63,8 @@ def _render_glossary(glossary: GlossaryBuildResult) -> str:
 def generate_html(
     extracted: ExtractedHexagram,
     lookup: dict[str, UnihanRecord],
-    glossary: GlossaryBuildResult,
+    glossary: GlossaryBuildResult | None = None,
+    include_glossary: bool = False,
 ) -> str:
     """Generate complete print-ready HTML for one hexagram."""
 
@@ -78,14 +87,15 @@ def generate_html(
         "</section>"
     )
 
-    section_blocks.append(
-        "<section class=\"major-section glossary-section\">"
-        "<h2>九、字典 (Character Glossary)</h2>"
-        "<div class=\"glossary-grid\">"
-        f"{_render_glossary(glossary)}"
-        "</div>"
-        "</section>"
-    )
+    if include_glossary and glossary is not None:
+        section_blocks.append(
+            "<section class=\"major-section glossary-section\">"
+            "<h2>九、字典 (Character Glossary)</h2>"
+            "<div class=\"glossary-grid\">"
+            f"{_render_glossary(glossary)}"
+            "</div>"
+            "</section>"
+        )
 
     return f"""<!DOCTYPE html>
 <html lang=\"zh-CN\">
@@ -162,6 +172,23 @@ def generate_html(
       color: #333;
     }}
 
+    .commentary {{
+      margin-top: 0.1in;
+      padding-top: 0.08in;
+      border-top: 1px dotted #ddd;
+    }}
+
+    .commentary .zh {{
+      font-size: 14pt;
+      color: #222;
+    }}
+
+    .commentary .py {{
+      font-size: 12pt;
+      color: #555;
+      margin-top: 0.04in;
+    }}
+
     .section8 .zh {{ font-size: {PRINT_LAYOUT.section_8_chinese}; }}
     .section8 .py {{ font-size: {PRINT_LAYOUT.section_8_pinyin}; }}
 
@@ -183,7 +210,6 @@ def generate_html(
     .glossary-char {{ font-size: {PRINT_LAYOUT.glossary_char}; font-weight: 700; line-height: 1; }}
     .glossary-pinyin {{ font-size: {PRINT_LAYOUT.glossary_pinyin}; color: #555; margin-top: 0.03in; }}
     .glossary-definition {{ font-size: {PRINT_LAYOUT.glossary_definition}; margin-top: 0.03in; }}
-    .glossary-locations {{ font-size: {PRINT_LAYOUT.glossary_locations}; color: #666; margin-top: 0.03in; font-family: monospace; }}
 
   </style>
 </head>

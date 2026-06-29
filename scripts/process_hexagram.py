@@ -25,6 +25,7 @@ from config import (  # noqa: E402
 from glossary_builder import build_glossary  # noqa: E402
 from html_extractor import extract_hexagram_from_html  # noqa: E402
 from html_generator import generate_html  # noqa: E402
+from forest_of_fates_commentary import attach_forest_commentaries, load_forest_commentaries  # noqa: E402
 from unihan_parser import build_unihan_lookup, locate_unihan_file  # noqa: E402
 
 
@@ -72,6 +73,7 @@ def main() -> int:
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_DIR, help="Output directory")
     parser.add_argument("--logs", type=Path, default=DEFAULT_LOG_DIR, help="Log directory")
     parser.add_argument("--repo-root", type=Path, default=REPO_ROOT, help="Repository root directory")
+    parser.add_argument("--glossary", action="store_true", help="Include character glossary (default: off)")
 
     args = parser.parse_args()
 
@@ -97,6 +99,12 @@ def main() -> int:
         print(f"[error] Failed to parse Unihan files: {exc}", file=sys.stderr)
         return 4
 
+    try:
+        forest_commentaries = load_forest_commentaries(args.repo_root)
+    except Exception as exc:
+        print(f"[error] Failed to parse 焦氏易林注 files: {exc}", file=sys.stderr)
+        return 5
+
     generated_paths: list[Path] = []
     processed_hexagrams: list[dict[str, object]] = []
     final_stats = {}
@@ -106,28 +114,36 @@ def main() -> int:
         try:
             source_path = resolve_source_file(args.repo_root, number)
             extracted = extract_hexagram_from_html(source_path, number)
-            glossary = build_glossary(extracted, lookup)
-            html = generate_html(extracted, lookup, glossary)
+            attach_forest_commentaries(extracted, forest_commentaries)
+            glossary = build_glossary(extracted, lookup) if args.glossary else None
+            html = generate_html(extracted, lookup, glossary, include_glossary=args.glossary)
         except Exception as exc:
             print(f"[error] Failed to process hexagram {number}: {exc}", file=sys.stderr)
-            return 5
+            return 6
 
         output_name = f"hexagram_{number:02d}_{extracted.name}.html"
         output_path = args.output / output_name
         output_path.write_text(html, encoding="utf-8")
         generated_paths.append(output_path)
 
-        with_definitions = sum(
-            1 for entry in glossary.entries if entry.definition != "(character not found in Unihan database)"
-        )
+        with_definitions = 0
+        glossary_count = 0
+        total_chinese = 0
+        if glossary is not None:
+            glossary_count = len(glossary.entries)
+            total_chinese = glossary.total_occurrences
+            with_definitions = sum(
+                1 for entry in glossary.entries if entry.definition != "(character not found in Unihan database)"
+            )
 
         final_stats = {
-            "unique_characters_in_glossary": len(glossary.entries),
-            "total_glossary_entries": len(glossary.entries),
-            "total_chinese_characters": glossary.total_occurrences,
+            "unique_characters_in_glossary": glossary_count,
+            "total_glossary_entries": glossary_count,
+            "total_chinese_characters": total_chinese,
             "estimated_page_count": max(1, (_count_source_lines(extracted) // 40) + 1),
             "sections_with_pinyin": 8,
             "characters_with_definitions": with_definitions,
+            "glossary_included": args.glossary,
         }
         final_hexagram_meta = {
             "number": number,
