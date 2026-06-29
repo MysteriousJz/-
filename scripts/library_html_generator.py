@@ -47,10 +47,6 @@ def _render_glossary(glossary: LibraryGlossary) -> str:
     return "\n".join(entries)
 
 
-def _entry_anchor(entry: LibraryEntry) -> str:
-    return f"entry-{entry.book_index:03d}"
-
-
 def _base_head(title: str) -> str:
     return f"""<!DOCTYPE html>
 <html lang=\"zh-CN\">
@@ -120,21 +116,6 @@ def _base_head(title: str) -> str:
       margin: 0 0 0.08in 0;
       font-size: 16pt;
     }}
-
-    .toc {{
-      columns: 2;
-      column-gap: 0.25in;
-      margin-top: 0.1in;
-    }}
-
-    .toc a {{
-      display: block;
-      color: inherit;
-      text-decoration: none;
-      padding: 0.03in 0;
-    }}
-
-    .toc a:hover {{ text-decoration: underline; }}
 
     .glossary-grid {{
       column-count: 3;
@@ -219,23 +200,13 @@ def generate_glossary_html(book: LibraryBook, glossary: LibraryGlossary) -> str:
 
 
 def generate_merged_html(book: LibraryBook, lookup: dict[str, UnihanRecord], glossary: LibraryGlossary) -> str:
-    toc_items = []
-    for entry in book.entries:
-        toc_items.append(f'<a href="#{_entry_anchor(entry)}">{escape(entry.title)}</a>')
-
     sections = [
         f"<h1>{escape(book.title)}</h1>",
         f"<div class=\"subtitle\">{len(book.entries)} chapter page(s) · {len(glossary.entries)} glossary entries</div>",
-        "<section class=\"major-section\">",
-        "<h2>Table of Contents</h2>",
-        '<div class="toc">',
-        "\n".join(toc_items),
-        "</div>",
-        "</section>",
     ]
     for entry in book.entries:
         sections.append(
-            f'<section class="major-section entry-card" id="{_entry_anchor(entry)}">'
+            '<section class="major-section entry-card">'
             f"<h3>{escape(entry.title)}</h3>"
             f"{_render_entry_lines(entry, lookup)}"
             "</section>"
